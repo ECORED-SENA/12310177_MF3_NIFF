@@ -1,0 +1,154 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "Introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/intro.html"
+  },  
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "reconocimiento-activos",
+    "title": "1. Reconocimiento de activos, pasivos, ingresos y gastos",
+    "breadcrumb": ["Inicio","tema 1"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "reconocimiento-activos",
+      "title": "1.1 Reconocimiento de los estados financieros ",
+      "anchor": "11"
+    }
+  ]
+   },
+
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "probabilidad",
+    "title": "2. La probabilidad de obtener beneficios económicos futuros",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html"
+  
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "fiabilidad",
+    "title": "3. Fiabilidad de la medición",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "fiabilidad",
+      "title": "3.1 Medición de activos, pasivos, ingresos y gastos",
+      "anchor": "31"
+    }
+  ]
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "definicion",
+    "title": "4. Definición entre partidas corrientes y no corrientes",
+    "breadcrumb": ["Inicio","tema 4"],
+    "path": "pages/4-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "ordenacion-formatos",
+    "title": "5. Ordenación y formato de las partidas del estado de información financiera",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/5-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "informacion",
+    "title": "6. Información a revelar en el estado de situación financiera y notas",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/6-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "presentacion",
+    "title": "7. Presentación y estructura del estado de resultados",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/7-tema.html",
+    "submenu": [
+    {
+      "icon": "fa fa-file-text-o",
+      "slug": "presentacion",
+      "title": "7.1 Estructura del estado de resultados",
+      "anchor": "71"
+    }
+  ]
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "reconocimiento",
+    "title": "8. Reconocimiento inicial de inversiones, cuentas por cobrar, propiedad, planta y equipo",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/8-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "ordenacion",
+    "title": "9. Ordenación y formato de las partidas del estado de información financiera",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/9-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "principio",
+    "title": "10. Principio de reconocimiento comercial para todos los beneficios a los empleados",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/10-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "medicion",
+    "title": "11. Medición y presentación de los ingresos",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/11-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "estados",
+    "title": "12. Estados de situación financiera de apertura",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/12-tema.html"
+  },
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "aplicacion",
+    "title": "13. Aplicación por primera vez de la norma de información financiera para microempresas",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/13-tema.html"
+  },
+  
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }
+  
+]

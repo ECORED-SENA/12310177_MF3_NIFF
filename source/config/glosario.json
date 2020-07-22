@@ -1,0 +1,60 @@
+[
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "Diferencia de cambio",
+        "desciption": "Es la que surge al convertir un determinado número de unidades de una moneda a otra moneda, utilizando tasas de cambio diferentes. "
+      }
+    ]
+  }, 
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Moneda extranjera (o divisa)",
+        "desciption": "Es cualquier otra distinta de la moneda funcional de (NOMBRE DE LA EMPRESA O ENTIDAD). "
+      },
+      {
+        "title": "Moneda funcional",
+        "desciption": "Es la moneda del entorno económico principal en el que opera (NOMBRE DE LA EMPRESA O ENTIDAD). "
+      },
+      {
+        "title": "Moneda de presentación",
+        "desciption": "Es la moneda en que se presentan los estados financieros. "
+      }
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Partidas monetarias",
+        "desciption": "Son unidades monetarias mantenidas en efectivo, así como activos y pasivos que se van a recibir o pagar, mediante una cantidad fija o determinable de unidades monetarias. "
+      }
+    ]
+  },  
+  {
+    "letter": "T",
+    "terms": [
+      {
+        "title": "Tasa de cambio de contado",
+        "desciption": "Es la tasa de cambio utilizado en las transacciones con entrega inmediata."
+      },
+      {
+        "title": "Tasa de cambio de cierre",
+        "desciption": "Es la tasa de cambio de contado existente al final del periodo sobre el que se informa."
+      }
+    ]
+  },
+  {
+    "letter": "V",
+    "terms": [
+      {
+        "title": "Valor razonable",
+        "desciption": "Es el importe por el cual puede ser intercambiado un activo, o cancelado un pasivo, entre un comprador y un vendedor, interesados y debidamente informados, que realizan una transacción libre. "
+      }
+    ]
+  }
+
+]
