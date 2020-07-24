@@ -1,5 +1,4 @@
 .page-header {
-    padding: 2rem 1rem;
     background: $brand-color-dark;
     position: relative;
 
@@ -26,8 +25,9 @@
 }
 
 .page-header-textura{
-    .page-header {
-        background: $brand-color-dark !important;
+    .page-textura {
+        padding: 2rem 1rem;
+        //background: url(../images/header/header_pattern.svg) scroll bottom center repeat !important;
     }
 }
 
@@ -102,24 +102,6 @@
         font-size: 1.2*$h5-font-size;
     }
 
-    h1,h2,h3,h4 {
-        color: black;
-        display: flex;
-        justify-content: start;
-        align-items: center;
-        font-weight: 700;
-
-        span.number {
-            background-color: $base-color-highlight;
-            color: #fff;
-            width: 55px;
-            height: 55px;
-            margin-right: 1.5rem;
-            line-height: 55px;
-            text-align: center;
-        }
-    }
-  
     &::after {
         content: " ";
         position: absolute;
@@ -128,8 +110,24 @@
         width: 50px;
         height: 4px;
         background-color: $base-color-highlight;
-    }     
-}
+    }  
+    &.-recuadro {
+        color: $brand-color-light;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        font-weight: 700;
 
+        span.number {
+            background-color: $brand-color-light;
+            color: #fff;
+            width: 55px;
+            height: 55px;
+            margin-right: 1.5rem;
+            line-height: 55px;
+            text-align: center;
+        }
+    }
+}
 
 

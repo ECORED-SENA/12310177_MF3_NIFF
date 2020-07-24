@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <title>Interpretación de los resultados de la información financiera NIIF para microempresas</title>
+        <meta meta name="description" content="Implementar las normas de información financiera (NIIF) según criterios para Microempresas.">
+        <link rel="icon" type="image/svg+xml" href="assets/images/logos/senaLogo.svg">
+        <link rel="stylesheet" href="assets/fonts/feather/feather.css">
+        <link rel="stylesheet" href="assets/fonts/fontawesome/css/font-awesome.css">
+        <link href="assets/css/fancybox.css" rel="stylesheet">
+        <link href="assets/css/animate.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+    <body class="theme-dark page-header-textura" id="page-home">
+        <header class="curso-presentacion page-header" id="CursoPresentacion">
+            <div class="page-textura">
+                <div class="container">
+                    <div class="curso-topbar justify-content-center justify-content-md-between"><a class="curso-topbar__logo"><svg xmlns="http://www.w3.org/2000/svg" width="168.273" height="164.177" viewBox="0 0 168.273 164.177">
+                                <path id="SENA_LOGO" data-name="SENA LOGO" d="M85.349,1a18.09,18.09,0,1,0,18.09,18.09h0A18.1,18.1,0,0,0,85.349,1ZM25.617,42.983a33.722,33.722,0,0,0-9.386,1.024,11.156,11.156,0,0,0-5.12,2.56A5.346,5.346,0,0,0,10.086,52.2c.683,1.707,2.56,2.9,4.608,3.584,4.437,1.536,9.386,1.877,13.994,2.731a5.1,5.1,0,0,1,2.389,1.024,1.369,1.369,0,0,1-.683,2.048,9.146,9.146,0,0,1-5.291.683A8.354,8.354,0,0,1,20.5,61.244a1.962,1.962,0,0,1-.853-2.389H9.233A7.663,7.663,0,0,0,10.6,63.463a7.59,7.59,0,0,0,4.267,2.389A28.541,28.541,0,0,0,23.4,66.876,52.426,52.426,0,0,0,35,66.023a11.043,11.043,0,0,0,5.8-2.9,5.358,5.358,0,0,0-1.365-8.533,21.267,21.267,0,0,0-5.8-2.048c-3.072-.683-5.973-1.024-9.045-1.536a9.114,9.114,0,0,1-3.072-.853,1.226,1.226,0,0,1,0-2.219,9.369,9.369,0,0,1,4.437-.683,10.554,10.554,0,0,1,4.608.853A1.877,1.877,0,0,1,31.59,49.81h9.9a5.669,5.669,0,0,0-1.195-3.584A8.875,8.875,0,0,0,35.515,43.5c-3.584-.341-6.827-.512-9.9-.512Zm21.333.683V67.217H75.792V62.1H57.531V57.489H73.744V52.54H57.531V48.786H75.109v-5.12Zm47.615,0H81.253V67.217H91.322V51.346l13.824,15.872h13.824V43.666H108.9v15.7Zm42.495,0L120.676,67.217h10.581l2.56-4.267H150.2l2.389,4.267h11.776l-15.53-23.551ZM142.35,49.3l5.12,8.533h-10.41ZM.7,74.044l.171,12.8L49,86.673c2.389.512,3.925,2.048,3.413,5.8l-29.7,51.711,9.557,9.045L78.01,74.044Zm91.646,0L137.4,152.89l9.9-8.874L117.433,92.3c-.512-3.584.853-5.291,3.413-5.8l48.127.171V74.044ZM84.837,87.185,42.512,159.546l11.264,5.461,28.159-47.615a4.283,4.283,0,0,1,2.9-1.195,4.681,4.681,0,0,1,3.072,1.195l28.159,47.786,11.605-5.973Z" transform="translate(-0.7 -1)" fill="#FF6B00" />
+                            </svg>
+                        </a><a class="curso-topbar__menubar collapsed btn-menu-responsive d-none" data-toggle="collapse" href="#curso-topbar__nav" aria-expanded="false"><span></span><span></span><span></span></a>
+                        <nav class="curso-topbar__nav collapse show d-none d-md-block" id="curso-topbar__nav">
+                            <ul class="curso-topbar__list">
+                                <li class="curso-topbar__item"><a class="curso-topbar__link" href="#ResultadosAprendizaje"><span class="text-white">Resultados de Aprendizaje</span></a></li>
+                                <li class="curso-topbar__item"><a class="curso-topbar__link" href="#IndiceTematico"><span class="text-white">Índice Temático</span></a></li>
+                                <li class="curso-topbar__item"><a class="curso-topbar__link" href="#Creditos"><span class="text-white">Créditos</span></a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="curso-portada">
+                        <div class="row align-items-center">
+                            <div class="col-12 col-lg-6">
+                                <h3 class="curso-subtitulo" id="curso-titulo-componente">Fundamentos NIIF para microempresas</h3>
+                                <h1 class="curso-titulo" id="curso-titulo-tema">Interpretación de los resultados de la información financiera NIIF para microempresas</h1>
+                                <div class="brand-line-primary"></div>
+                                <p class="curso-descripcion">Implementar las normas de información financiera (NIIF) según criterios para Microempresas</p>
+                            </div>
+                            <div class="col-12 col-lg-6 text-center">
+                                <div class="d-none d-lg-block"><img class="curso-imagen" src="assets/images/header/header_media.svg" /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <section class="curso-resultados section bg-base-light" id="ResultadosAprendizaje">
+            <div class="container">
+                <h2> Resultados de <br>aprendizaje</h2>
+                <div class="brand-line-primary"></div>
+                <div class="card resultado-item">
+                    <div class="card-body">
+                        <ul class="bg-color-dark">
+                            <li> <span>Interpretar los principios y conceptos generales de la contabilidad según las normas de información financiera.</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="curso-indice-tematico section" id="IndiceTematico">
+            <div class="container">
+                <h2>Desarrollo de <br>contenidos</h2>
+                <div class="brand-line-primary"></div>
+                <div class="row justify-content-center">
+                    <div class="col-12 col-sm-10">
+                        <div class="card wow flipInX" data-wow-delay=".4s">
+                            <div class="card-body">
+                                <ul class="list-group list-group-flush list my-n3 nav-temas">
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold"> <i class="fa fa-play"></i></span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#pages/intro.html/">Introducción</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#pages/intro.html/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">1</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/reconocimiento-activos/">Reconocimiento de activos, pasivos, ingresos y gastos</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/reconocimiento-activos/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">2</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/probabilidad/">La probabilidad de obtener beneficios económicos futuros</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/probabilidad/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">3</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/fiabilidad/">Fiabilidad de la Medición</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/fiabilidad/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">4</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/definicion/">Definición entre partidas corrientes y no corrientes</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/definicion/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">5</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/ordenacion-formatos/">Ordenación y formato de las partidas del estado de información financiera</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/ordenacion-formatos/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">6</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/informacion/">Información a revelar en el estado de situación financiera y notas</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/informacion/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">7</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/presentacion/">Presentación y estructura del estado de resultados</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/presentacion/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">8</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/reconocimiento/">Reconocimiento inicial de inversiones, cuentas por cobrar, propiedad, planta y equipo</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/reconocimiento/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">9</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/ordenacion/">Ordenación y formato de las partidas del estado de información financiera</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/ordenacion/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">10</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/principio/">Principio de reconocimiento comercial para todos los beneficios a los empleados</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/principio/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">11</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/medicion/">Medición y presentación de los ingresos</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/medicion/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">12</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/estados/">Estados de situación financiera de apertura</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/estados/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold">13</span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/aplicacion/">Aplicación por primera vez de la norma de información financiera para microempresas</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/aplicacion/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item nav-tema-item">
+                                        <div class="row align-items-center">
+                                            <div class="col-auto">
+                                                <div class="avatar avatar-sm"><span class="nav-tema-item__icon avatar-title font-size-lg bg-secondary-soft rounded-circle text-primary font-weight-bold"> <i class="fa fa-question"></i></span></div>
+                                            </div>
+                                            <div class="col ml-n2"><span class="nav-tema-item__titulo"> <a href="main.html#page/actividad-1/">Actividad didáctica</a></span></div>
+                                            <div class="col-auto"> <a class="btn btn-light nav-tema-item__btn" href="main.html#page/actividad-1/">Ver más</a></div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <section id="mainContent"> </section>
+                    </div>
+                </div>
+            </div>
+            <div id="introduccion">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>Introducción </h1>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row my-5">
+                        <div class="col">
+                            <div class="card">
+                                <div class="card-body mt-0">
+                                    <p>Las microempresas han contado con una gran consideración en al conversión a NIIF, lo que se evidencia en el Decreto 2706 de 2012 que contempla cada uno de los requisitos que deben cumplir estar organizaciones para la adopción de las NIIF para microempresas.</p><br>
+                                    <p>Es así que se cuenta con la consideración de la adopción de aquellas organizaciones que inician su formalización facilitando los procesos contables y por tanto la emisión de información financiera la que se reduce para este en Estado de Situación Financiera, Estado de Resultados y Notas lo cual es simplificado comparado con las obligaciones que han adquirido las demás organizaciones correspondientes a los grupos 1 y 3 para la adopción de NIIF.</p>
+                                    <div class="embed-responsive embed-responsive-16by9 mt-5"><iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/l0LVvs1fG6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-1">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>1. Identificación de las NIIF para microempresas</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Según el decreto 2706 de 2012 el reconocimiento es el proceso de incorporar en los estados financieros una partida que cumple con la definición de activo, pasivo, ingreso o gasto y que cumpla los siguientes criterios:</p><br>
+                            <p>a) Es probable que cualquier beneficio económico futuro asociado con la partida entre o salga de la microempresa.</p><br>
+                            <p>b) La partida tiene un costo o valor que puede ser medido con fiabilidad.</p><br>
+                            <p>La falta de reconocimiento en los estados financieros de una partida que satisface esos criterios, no se rectifica mediante la revelación de las políticas contables seguidas, ni tampoco a través de notas u otro material explicativo.</p>
+                        </div>
+                    </div>
+                    <div id="11"></div>
+                    <div class="header-ecored">
+                        <h1>1.1 Reconocimiento de los estados financieros</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Una microempresa reconocerá los activo, pasivo, ingreso y gasto en el estado de situación financiera cuando cumpla las siguientes condiciones: </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-2">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>2. La probabilidad de obtener beneficios económicos futuros</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6">
+                                    <p>Este concepto se utiliza en el primer criterio de reconocimiento, con referencia al grado de incertidumbre con que los beneficios económicos futuros asociados al mismo llegarán, o saldrán, de la microempresa. La evaluación del grado de incertidumbre correspondiente al flujo de los beneficios futuros se realiza sobre la base de la evidencia relacionada con las condiciones al final del periodo sobre el que se informa que esté disponible cuando se preparan los estados financieros. Esas evaluaciones se realizan individualmente significativas, y para un grupo y gran número de elementos individualmente insignificantes. </p>
+                                </div>
+                                <div class="col-12 col-md-6"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img1.svg"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-3">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>3. Fiabilidad de la medición</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>El segundo criterio para el reconocimiento de una partida es que tenga un costo o un valor que pueda medirse de forma fiable. En muchos casos, el costo o valor de una partida es conocido. En otros casos debe estimarse. La utilización de estimaciones razonables es una parte esencial de la elaboración de los estados financieros y no menoscaba su fiabilidad. Cuando no puede hacerse una estimación razonable, la partida no se reconoce en los estados financieros.</p><br>
+                            <p>Una partida que no cumple los criterios para su reconocimiento puede cumplir las condiciones para su reconocimiento en una fecha posterior como resultado de circunstancias o de sucesos posteriores. Tambien, puede ser revelada a través de notas, material informativo o cuadros complementarios. Esto es apropiado cuando el conocimiento de tal partida se considere relevante por los usuarios de los estados financieros para la evaluación de la situación financiera, el rendimiento y los cambios en la situación financiera de una microempresa.</p>
+                        </div>
+                    </div>
+                    <div id="31"></div>
+                    <div class="header-ecored">
+                        <h1>3.1 Medición de activos, pasivos, ingresos y gastos</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>La medición es el proceso de determinar cuantías o valores en los que una microempresa mide los activos, pasivos, ingresos y gastos en sus estados financieros. La selección determina una base de medición. Y la base de medición para microempresas corresponde al Costo Histórico que está representado por el valor pagado más todos los costos y gastos directamente incurridos para disponer un activo en condiciones de uso o venta.</p>
+                            <h2 class="mt-5 text-center">Criterios de Base de Medición </h2><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img2.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-4">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>4. Definición entre partidas corrientes y no corrientes</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-4"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img3.png"></div>
+                                <div class="col-12 col-md-8"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img4.png"></div>
+                            </div>
+                            <p class="mt-5">Una microempresa revelará los activos y pasivos clasificados en corrientes y no corrientes según las siguientes condiciones:</p><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img5.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-5">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>5. Ordenación y formato de las partidas del estado de información financiera</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Según el decreto 2706 de 2012 las partidas que conforman el estado de situación financiera se presentan tomando como base:</p>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6">
+                                    <p class="mt-5">a) su liquidez, en el caso de los activos</p><br>
+                                    <p>b) su exigibilidad, en el caso de los pasivos</p><br>
+                                    <p>Se incluirán otras partidas cuando el tamaño, naturaleza o función de la partida o grupo de partidas similares sea relevante y necesario hacer su presentación, para comprender la situación financiera de la microempresa.</p><br>
+                                    <p>Las denominaciones utilizadas y la ordenación de las partidas o agrupaciones de partidas similares podrán modificarse de acuerdo con la naturaleza de la microempresa y de sus transacciones, para suministrar información que sea relevante para la comprensión de la situación financiera de la microempresa.</p>
+                                </div>
+                                <div class="col-12 col-md-6"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img6.png"></div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-8 border-radius-color-orange py-5">
+                                    <div class="row justify-content-center align-items-center">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/search.png"></div>
+                                        <div class="col-8">
+                                            <h3>Ver tablas 4. Modelo de Estado de Situación Financiera para Microempresa</h3><a class="mt-4" href="https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=4909299&amp;query=Normas+internacionales+de+información+financiera+NIIF" target="_blank">https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=4909299&query=Normas+internacionales+de+información+financiera+NIIF</a>
+                                            <h3 class="mt-4 text-right">cap. 5 pag. 203 y 205</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/indi.png">
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-6 border-radius-color-orange py-5 px-5">
+                                    <h3>Base de datos del sistema de bibliotecas SENA</h3>
+                                    <p class="mt-3">Recuerda ingresar con tu no. de identificación en usuario y contraseña </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-6">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>6. Información a revelar en el estado de situación financiera y notas</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6">
+                                    <p class="text-center">Una microempresa revelará como mínimo en el Estado de Situación Financiera o en las notas las siguientes partidas:</p>
+                                </div>
+                            </div>
+                            <p class="mt-5">a) Efectivo y equivalentes al efectivo</p><br>
+                            <p>b) Inversiones</p><br>
+                            <p>c) Deudores comerciales y otras cuentas por cobrar que muestren por separado los montos por cobrar de terceros y cuentas por cobrar procedentes de ingresos causados (o devengados) pendientes de cobro.</p><br>
+                            <p>d) Cuando no se tenga la certeza de poder cobrar una deuda comercial, deberá establecerse una cuenta que muestre el deterioro (provisión) de las cuentas por cobrar.</p><br>
+                            <p>e) Inventario que muestren por separado las cuantías: i) que se mantienen para la venta en el curso normal de las operaciones. ii) en forma de materiales o suministros, para ser consumidos en el proceso de producción o en la prestación de servicios.</p><br>
+                            <p>f) Propiedades, planta y equipo que muestren el valor de la depreciación acumulada</p><br>
+                            <p>g) Acreedores comerciales y otras cuentas por pagar, que muestren por separado otros montos por pagar a proveedores, ingresos diferidos y gastos acumulados por pagar.</p><br>
+                            <p>h) Obligaciones financieras</p><br>
+                            <p>i) Obligaciones laborales</p><br>
+                            <p>j) Pasivo por impuestos</p><br>
+                            <p>k) Provisiones: corresponden al reconocimiento de las estimaciones de obligaciones presentes, surgidas de eventos pasados, sobre las cuales se desconoce con certeza su fecha de liquidación, o pago o monto.</p><br>
+                            <p>l) Patrimonio que comprende partidas tales como capital pagado, ganancias acumuladas y utilidad o ´pérdida del ejercicio. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-7">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>7. Presentación y estructura del estado de resultados</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6"><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img7.png"></div>
+                                <div class="col-12 col-md-6">
+                                    <p>A continuación se presentan las partidas y cada uno de los requisitos de reconocimiento, medición, información a revelar y presentación en los estados financieros.</p><br>
+                                    <p>Una microempresa presentará el Estado de Resultados de sus operaciones, en un periodo determinado, en el estado de resultados, el cual incluirá todas las partidas de ingresos y gastos reconocidas en el periodo.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="71"></div>
+                    <div class="header-ecored">
+                        <h1>7.1 Estructura del estado de resultados</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6">
+                                    <p>La utilidad bruta refleja la diferencia entre las ventas netas y los costos de ventas. De la utilidad bruta se deducen todos los gastos incurridos, se suman los otros ingresos causados y se resta la provisión para impuesto sobre la renta para establecer el resultado del período.</p><br>
+                                    <p>El impuesto sobre la renta que figura en el estado de resultados corresponde a la mejor estimación del gasto por éste concepto a la fecha de cierre.</p><br>
+                                    <p>Toda pérdida o ganancia que sea importante debe revelarse por separado en el estado de resultados, atendiendo los criterios establecidos de materialidad o importancia relativa. </p>
+                                </div>
+                                <div class="col-12 col-md-6"><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img8.png"></div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-8 border-radius-color-orange py-5">
+                                    <div class="row justify-content-center align-items-center">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/search.png"></div>
+                                        <div class="col-8">
+                                            <h3 class="text-right">Ver tabla 5. Estado de Resultados</h3><a class="text-right mt-4" href="http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf" target="_blank">http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf</a>
+                                            <h3 class="mt-4 text-right">cap. 5 pag. 203 y 205 </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-8">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>8. Reconocimiento inicial de inversiones, cuentas por cobrar, propiedad, planta y equipo</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Este apartado referencia a los principios para el reconocimiento a los principios para el reconocimiento y medición de algunas partidas del activo desde el reconocimiento inicial.</p><br>
+                            <p>Para mayor información a continuación se presenta las inversiones, cuentas por cobrar, propiedad, planta y equipo con todos los requisitos para su presentación en el estado de situación financiera, incluido el reconocimiento inicial.</p>
+                            <h2 class="text-center mt-5">Tabla 6. Presentación y Estructura del Estado de Situación Financiera - Inversiones</h2><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img9.png">
+                            <h2 class="text-center mt-5">Tabla 7. Presentación y Estructura del Estado de Situación Financiera – Cuentas por Cobrar</h2><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img10.png">
+                            <p class="mt-5">a) al final de cada periodo sobre el que se informa, una microempresa evaluará si existe evidencia objetiva de deterioro o de recuperación de valor de los activos, de que trata esta norma. Cuando exista evidencia objetiva de deterioro del valor, la microempresa reconocerá inmediatamente en cuentas de resultado una pérdida por deterioro del valor. b) la microempresa medirá la pérdida por deterioro del valor de la siguiente forma: la pérdida por deterioro es la diferencia entre el valor en libros del activo y la mejor estimación (que necesariamente tendrá que ser una aproximación) del valor (que podría ser cero) que ésta recibiría por el activo si se llegara a vender o a realizar en la fecha sobre la que se informa. c) En cuanto “Reversión” en el párrafo 2.36 dice: si en períodos posteriores se disminuye la cuantía de una pérdida por deterioro del valor y la disminución puede relacionarse objetivamente con un hecho ocurrido con posterioridad al reconocimiento inicial del deterioro, la microempresa revertirá la pérdida por deterioro reconocida con anterioridad. La recuperación del deterioro no puede llevar el valor del activo a un monto neto en libros superior al que hubiera tenido si no hubiera sufrido ese deterioro. La microempresa reconocerá inmediatamente el monto de la reversión en las cuentas de resultado. </p>
+                            <h2 class="text-center mt-5">Tabla 8. Presentación y Estructura del Estado de Situación Financiera – Propiedad, Planta y Equipo</h2><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img11.png">
+                            <p class="mt-5">Una microempresa dará de baja en cuentas un elemento de propiedades, planta y equipo: a) cuando disponga de el, b) cuando no espere obtener beneficios económicos por su uso o disposición, </p><br>
+                            <p>Una microempresa reconocerá la ganancia o pérdida por la baja en cuentas de un elemento de propiedades, planta y equipo en el resultado del periodo en que el elemento sea dado de baja en cuentas.</p><br>
+                            <p>Una microempresa determinará la ganancia o pérdida procedente de la baja de cuentas de un elemento de propiedades, planta y equipo, como la diferencia entre el producto neto de la disposición, si lo hubiera, y el valor en libros del elemento.</p>
+                            <p class="mt-5">Es parte fundamental de la presentación en estados financieros para la Propiedad, Planta y Equipo la medición, que por su extensión y detalle no fue posible incluirla en la tabla anterior y se presente a continuación:</p>
+                            <h2 class="text-center mt-5">Tabla 9. Presentación y Estructura de ESFA “Propiedad, Planta y Equipo – Medición”</h2><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img12.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-9">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>9. Ordenación y formato de las partidas del estado de información financiera</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6">
+                                    <p>Un pasivo financiero (cuentas por pagar comerciales, documentos por pagar y préstamos por pagar), es una obligación contractual para entregar dinero u otros activos financieros a terceros (otra entidad o persona natural). </p>
+                                </div>
+                            </div>
+                            <h2 class="text-center mt-5">Tabla 10. Reconocimiento Inicial, Medición e Información a Revelar de las Obligaciones Financieras y Cuentas por Pagar</h2><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img13.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-10">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>10. Principio de reconocimiento comercial para todos los beneficios a los empleados</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Una microempresa reconocerá el costo de todos los beneficios a los empleados a los que estos tengan derecho como un gasto, a menos que otro capítulo del decreto 2706 de 2012 requiera que el costo se reconozca como parte del activo, tal como en la construcción de propiedad, planta y equipo.</p>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img14.png"></div>
+                                <div class="col-12 col-md-6"><strong>Obligaciones Laborales a Corto Plazo</strong>
+                                    <p class="mt-0">a) Salarios y aportes a la seguridad social.</p><br>
+                                    <p class="mt-0">b) Prestaciones sociales básicas (primas, vacaciones, cesantías e intereses a las cesantías).</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-8">
+                                    <hr class="bd-hr-blue">
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img15.png"></div>
+                                <div class="col-12 col-md-6"><strong>Medición de Beneficios a Corto Plazo </strong>
+                                    <p class="mt-0">Cuando un empleado haya prestado sus servicios a una microempresa durante el periodo sobre el que se informa, se medirá el valor reconocido de acuerdo con el principio de reconocimiento general para todos los beneficios a los empleados, por el valor que se espera que se haya que pagar por esos servicios.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-8">
+                                    <hr class="bd-hr-blue">
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img16.png"></div>
+                                <div class="col-12 col-md-6"><strong>Reconocimiento</strong>
+                                    <p class="mt-0">Los beneficios por periodo de empleo no proporcionan a la microempresa beneficios futuros, una microempresa los reconocerá en resultados como gastos de forma inmediata. No se reconocerán provisiones para despido sin justa causa, a menos que se trate de acuerdos de terminación aprobados legalmente con anterioridad e informados a los afectados.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-8">
+                                    <hr class="bd-hr-blue">
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img17.png"></div>
+                                <div class="col-12 col-md-6"><strong>Una microempresa clasificará sus obligaciones laborales de acuerdo: a) espera liquidarlo o cancelarlo en el curso normal del ciclo de operación de la microempresa, b) el pasivo debe liquidarse entre los doce meses siguientes a la fecha sobre la que se informa, c) una microempresa clasificará todos los demás pasivos como no corrientes.</strong></div>
+                            </div>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-8">
+                                    <hr class="bd-hr-blue">
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img18.png"></div>
+                                <div class="col-12 col-md-6"><strong>Obligaciones Laborales a Largo Plazo</strong>
+                                    <p class="mt-0">Aunque este tipo de retribuciones no es usual en la microempresa, de presentarse, se medirán por la mejor estimación del probable desembolso.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-8">
+                                    <hr class="bd-hr-blue">
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img19.png"></div>
+                                <div class="col-12 col-md-6"><strong>Información a Revelar</strong>
+                                    <p class="mt-0">La información a revelar será los beneficios a los empleados de largo plazo, revelará la naturaleza de sus beneficios y el monto de la obligación. Para los beneficios por terminación de una microempresa proporcione a sus empleados, revelará la naturaleza de los beneficios y el monto de su obligación</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-8">
+                                    <hr class="bd-hr-blue">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-11">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>11. Medición y presentación de los ingresos</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Los ingresos a registrar corresponden a:</p><br>
+                            <p>a) Venta de bienes</p><br>
+                            <p>b) Prestación de servicios</p><br>
+                            <p>c) Otros ingresos</p>
+                            <h2 class="text-center mt-5">Tabla 11. Requisitos para la Presentación de Ingresos</h2><img class="img-a mt-5 img-fluid" src="assets/images/pages/ilustraciones/img20.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-12">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>12. Estados de situación financiera de apertura</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <p>Todo ente económico en etapa de formalización debe elaborar un estado de situación financiera de apertura que permita conocer de manera clara y completa su situación financiera, este debe elaborarse de acuerdo con los procedimientos para preparar los estados financieros en la fecha de transición.</p><br>
+                            <p>Se entiende que los activos y pasivos que deben incorporarse en el estado de situación financiera de apertura, serán los que se relacionen de manera directa con la actividad de la microempresa.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="tema-13">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>13. Aplicación por primera vez de la norma de información financiera para microempresas</h1>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-12 col-md-6">
+                                    <p>Una microempresa puede adoptar por primera vez la norma de información financiera para las microempresas en una única ocasión. Si una microempresa que utiliza la norma de información financiera para las microempresas deja de usarla durante uno o varios periodos sobre los que se informa y se le requiere o elige adoptarla nuevamente con posterioridad, las exenciones especiales, simplificaciones y otros requerimientos de esta sección no serán aplicables a la nueva adopción.</p>
+                                </div>
+                            </div>
+                            <h2 class="mt-5">Adopción por Primera Vez</h2>
+                            <div class="row justify-content-center">
+                                <div class="col-12 col-md-6">
+                                    <p>Una microempresa que adopte por primera vez la Norma de Información Financiera para Microempresas aplicará lo contenido en el decreto 2706 de 2012 en la preparación de sus primeros estados financieros, los cuales deben cumplir con los requisitos establecidos en la mencionada norma.</p><br>
+                                    <p>Los primeros estados financieros de una microempresa conforme a esta norma son los estados financieros anuales en los cuales la microempresa hace una declaración inicial, explícita y sin reservas del cumplimiento de la mencionada norma. Los estados financieros preparados de acuerdo con esta norma son los primeros estados financieros de una microempresa si ella por ejemplo:</p>
+                                    <div class="row justify-content-center align-items-center mt-5">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                        <div class="col-6">
+                                            <p>No presentó estados financieros en los periodos anteriores.</p>
+                                        </div>
+                                    </div>
+                                    <div class="row justify-content-center align-items-center mt-5">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                        <div class="col-6">
+                                            <p>Presentó sus estados financieros más recientes según el marco contable anterior, que no son coherentes con todos los aspectos de esta norma.</p>
+                                        </div>
+                                    </div>
+                                    <div class="row justify-content-center align-items-center mt-5">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                        <div class="col-6">
+                                            <p>Presentó sus estados financieros más recientes de conformidad con NIIF o NIIF para Pymes. </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <p>Los estados financieros o conjunto completo de estados financieros para la microempresa son:</p>
+                                    <div class="row justify-content-center align-items-center mt-5">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                        <div class="col-6">
+                                            <p>Estado de Situación Financiera</p>
+                                        </div>
+                                    </div>
+                                    <div class="row justify-content-center align-items-center mt-5">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                        <div class="col-6">
+                                            <p>Estado de Resultados</p>
+                                        </div>
+                                    </div>
+                                    <div class="row justify-content-center align-items-center mt-5">
+                                        <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                        <div class="col-6">
+                                            <p>Notas a los estados financieros como lo especifica el párrafo 3.8 de esta norma. </p>
+                                        </div>
+                                    </div>
+                                    <p class="mt-3">Una microempresa revelará información comparativa respecto del periodo comparable anterior para todos los montos presentados en los estados financieros del periodo corriente, así como información financiera específica. Adicionalmente, incluirá información comparativa para la información de tipo descriptivo y narrativo, cuando esto sea relevante para la comprensión de los estados financieros del periodo corriente.</p><br>
+                                    <p>Una microempresa puede presentar información comparativa con respecto a más de un periodo anterior comparable. La fecha de transición a la norma de información financiera para microempresas de una microempresa es la fecha en la que prepara su estado de situación financiera de apertura a esta norma </p>
+                                </div>
+                            </div><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img21.png">
+                            <h2 class="mt-5">Procedimientos para Preparar los Estados Financieros en la fecha de transición</h2>
+                            <p class="mt-5">Una microempresa deberá, en su estado de situación financiera de apertura en la fecha de transición a la norma de información financiera para las microempresas:</p>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                <div class="col-9">
+                                    <p>Reconocer todos los activos y pasivos de acuerdo con lo señalado en esta norma.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                <div class="col-9">
+                                    <p>No reconocer partidas como activos y pasivos si esta norma no lo permite.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                <div class="col-9">
+                                    <p>Reclasificar las partidas que reconoció, según su marco contable anterior, como activo, pasivo o componente de patrimonio, pero que son de un tipo diferente de acuerdo con esta norma.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/select.png"></div>
+                                <div class="col-9">
+                                    <p>Aplicar esta norma al medir todos los activos y pasivos reconocidos.</p>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-12 col-md-6">
+                                    <p>Las políticas contables que una microempresa utilice en su estado de situación financiera de apertura conforme a esta norma pueden diferir de las que aplicaba en la misma fecha utilizando su sistema contable anterior. Los ajustes resultantes surgen de transacciones, otros sucesos y condiciones anteriores a la fecha de transición a esta norma. Por lo tanto, una microempresa reconocerá estos ajustes, en la fecha de transición a esta norma, directamente en la cuenta de resultados acumulados.Revaluación como Costo Atribuido </p>
+                                </div>
+                                <div class="col-12 col-md-6"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img22.png"></div>
+                            </div>
+                            <p class="mt-5">Una microempresa que aplica por primera vez esta norma, podrá utilizar como costo de las propiedades, planta y equipo en el estado de situación financiera d apertura, cualquiera de los siguientes criterios:</p><br>
+                            <p>a) Un avalúo técnico efectuado en la fecha de transición</p><br>
+                            <p>b) El saldo que se trae de los registros contables anteriores, siempre y cuando cumplan con los criterios de reconocimiento de esta norma</p><br>
+                            <p>En lo sucesivo este valor será la base para aplicar las disposiciones contenidas en la presente norma.</p>
+                            <h2 class="mt-5">Revelación de la Transición a la Norma de Información Financiera para las Microempresas</h2>
+                            <p class="mt-5">Una microempresa explicará en una nota a los estados financieros, como ha efectuado la transición desde el marco contable anterior a esta norma.</p>
+                            <div class="row justify-content-center align-items-center mt-5">
+                                <div class="col-auto d-none d-lg-block"><img class="img-a img-fluid" src="assets/images/pages/ilustraciones/img23.png"></div>
+                                <div class="col-8"><strong>Conciliaciones</strong><br>
+                                    <p>Para cumplir con lo establecido en el párrafo anterior, los primeros estados financieros preparados conforme a esta norma son:</p><br>
+                                    <p>a) Una descripción de la naturaleza de cada cambio en la política contable</p><br>
+                                    <p>b) Conciliación de su patrimonio determinado de acuerdo con su marco contable anterior y con el patrimonio determinado de acuerdo de esta norma según las siguientes fechas:</p><br>
+                                    <p>i) La fecha de transición de esta norma</p><br>
+                                    <p>ii) El final del último periodo presentado en los estados financieros anuales más recientes de la microempresa determinado de acuerdo con su marco contable anterior.</p><br>
+                                    <p>Una conciliación del resultados de sus operaciones, determinado de acuerdo con su marco contable anterior, para el último periodo incluido en los estados financieros anuales más recientes de la microempresa, con el resultado determinado de acuerdo con esta norma para ese mismo periodo.</p><br>
+                                    <p>Si una microempresa no presentó estados financieros en periodos anteriores, revelará este hecho en sus primeros estados financieros preparados conforme a esta norma. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="evaluacion">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>Actividad didáctica</h1>
+                    </div>
+                    <div class="row align-items-center justify-content-center my-5">
+                        <div class="col-8 col-md-5 col-xl-4 mb-5">
+                            <figure><img src="assets/images/pages/actividad/img_actividad.svg" alt=""></figure>
+                        </div>
+                        <div class="col-12 col-md-7">
+                            <hr class="line-100 bg-orange">
+                            <div class="text-center p-2">
+                                <h2>¡Pon a prueba tu conocimiento! </h2>
+                                <p>La siguiente actividad tiene como propósito validar los conocimientos adquiridos sobre <strong>Interpretación de los resultados de la información financiera NIIF para microempresas</strong></p><a class="btn btn-colour-Orange" href="media/actividad-1/index.html" target="_blank">Iniciar </a>
+                            </div>
+                            <hr class="line-100 bg-orange">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="glosario">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>Glosario</h1>
+                    </div>
+                    <div class="jumbotron bg-white">
+                        <p><strong class="mr-2">Diferencia de cambio:</strong>es la que surge al convertir un determinado número de unidades de una moneda a otra moneda, utilizando tasas de cambio diferentes.</p>
+                        <p><strong class="mr-2">Moneda extranjera (o divisa):</strong>es cualquier otra distinta de la moneda funcional de (NOMBRE DE LA EMPRESA O ENTIDAD).</p>
+                        <p> <strong class="mr-2">Moneda funcional:</strong>es la moneda del entorno económico principal en el que opera (NOMBRE DE LA EMPRESA O ENTIDAD).</p>
+                        <p> <strong class="mr-2">Moneda de presentación:</strong>es la moneda en que se presentan los estados financieros.</p>
+                        <p><strong class="mr-2">Partidas monetarias:</strong>son unidades monetarias mantenidas en efectivo, así como activos y pasivos que se van a recibir o pagar, mediante una cantidad fija o determinable de unidades monetarias.</p>
+                        <p><strong class="mr-2">Tasa de cambio de contado:</strong>es la tasa de cambio utilizado en las transacciones con entrega inmediata.</p>
+                        <p> <strong class="mr-2">Tasa de cambio de cierre:</strong>es la tasa de cambio de contado existente al final del periodo sobre el que se informa.</p>
+                        <p> <strong class="mr-2">Valor razonable:</strong>es el importe por el cual puede ser intercambiado un activo, o cancelado un pasivo, entre un comprador y un vendedor, interesados y debidamente informados, que realizan una transacción libre.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="anexos">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>Material complementario</h1>
+                    </div>
+                    <div class="jumbotron bg-white">
+                        <table class="table table-bordered table-striped">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th class="text-center">Autor, (año del documento o material), Nombre del documento o material.</th>
+                                    <th class="text-center">Tipo de material ( Video, capítulo de libro, articulo, otro) </th>
+                                    <th class="text-center">Enlace del Recurso o Archivo del documento o material </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>Guía de Implementación Relevante emitida por IASB de las NIIF</strong></td>
+                                    <td>Documento</td>
+                                    <td> <a href="https://www.nicniif.org/files/u1/Manual_del_procedimiento.pdf" target="_blank"><span class="fa fa-download" aria-hidden="true"></span> Descargar</a></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Decreto 2706 de 2012</strong></td>
+                                    <td>Documento</td>
+                                    <td> <a href="https://niif.com.co/decreto-2706-2012/marco-tecnico-nif-grupo-3" target="_blank"><span class="fa fa-download" aria-hidden="true"></span> Descargar</a></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Directrices para la Contabilidad e Información Financiera de las Pequeñas y Mediana Empresas, orientación nivel 3</strong></td>
+                                    <td>Documento</td>
+                                    <td> <a href="https://unctad.org/es/Docs/diaeed20092_sp.pdf" target="_blank"><span class="fa fa-download" aria-hidden="true"></span> Descargar</a></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>NIIF para Microempresas – NIIF para Microempresas con ejercicios de aplicación</strong></td>
+                                    <td>Documento</td>
+                                    <td> <a href="http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf" target="_blank"><span class="fa fa-download" aria-hidden="true"></span> Descargar </a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div id="referencias">
+                <div class="container">
+                    <div class="header-ecored">
+                        <h1>Referencias bibliográficas</h1>
+                    </div>
+                    <div class="jumbotron bg-white referencias">
+                        <p>Godoy, R. (2018). Adopción por primera vez a las niif-esfa : Plenas, pymes y microempresas. Retrieved from<a class="ml-2" href="https://ebookcentral-proquest-com.bdigital.sena.edu.co" target="_blank">https://ebookcentral-proquest-com.bdigital.sena.edu.co</a></p>
+                        <hr>
+                        <p>MINCIT, (2012). Decreto 2706 de 2012. Página Web Normas de Información Financiera, www.niif.com.co: <a class="ml-2" href="https://niif.com.co/decreto-2706-2012/marco-tecnico-nif-grupo-3" target="_blank">https://niif.com.co/decreto-2706-2012/marco-tecnico-nif-grupo-3</a></p>
+                        <hr>
+                        <p>Ramírez, (2017). NIIF para Microempresas. Normas de Información Financiera para Microempresas con ejercicios de aplicación. Universidad Libre. Bogotá y Cali. Grupo de Investigación, Gestión y Apoyo a Mipymes. Página web Universidad Libre de Colombia <a class="ml-2" href="http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf" target="_blank">http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf</a></p>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="footer" id="Creditos">
+            <div class="container">
+                <h1>Créditos </h1>
+                <div class="brand-line-primary"></div>
+                <div class="row">
+                    <div class="col-12 col-md-5">
+                        <h3 class="footer-subtitulo mb-4">ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES </h3>
+                        <p class="footer-texto mb-2"><strong>Ingry Dayanna Bonilla Monzon </strong><br /> <span class="text-small">Lider del equipo</span></p>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-12 col-md-5">
+                        <h4 class="footer-subtitulo-2 mt-0">
+                            <div class="fa fa-caret-right mr-2"></div>Contenido Instruccional
+                        </h4>
+                        <p class="footer-texto mb-2"><strong>Gloria Matilde Lee Mejía </strong><br /> <span class="text-small">Responsable del equipo</span></p>
+                        <p class="footer-texto"><span class="text-small text-uppercase">Centro de Comercio y Servicios</span><br><span class="text-small">Regional Tolima</span></p>
+                        <p class="footer-texto mb-2"><strong>Rafael Nelftalí Lizcano Reyes</strong><br /> <span class="text-small">Asesor pedagógico<br /></span></p>
+                        <p class="footer-texto"><span class="text-small text-uppercase">CENTRO INDUSTRIAL DEL DISEÑO Y LA MANUFACTURA </span><br><span class="text-small">Regional Santander </span></p>
+                        <p class="footer-texto mb-2"><strong>Norma Constanza Morales Cruz</strong><br /><span class="text-small">Experta temática<br /></span></p>
+                        <p class="footer-texto"><span class="text-small text-uppercase">Contratista Centro de Comercio y Servicios - Regional Tolima</span></p>
+                        <p class="footer-texto mb-2"><strong>Ebert Arcila Jaramillo</strong><br /><span class="text-small">E-pedagogo instruccional<br /></span><span class="text-small text-uppercase">Centro Atención Sector Agropecuario Regional Quindío.</span></p>
+                        <p class="footer-texto mb-2"><strong>Leidy Carolina Arias Aguirre</strong><br /> <span class="text-small">Evaluadora instruccional<br /> </span><span class="text-small text-uppercase">Centro de diseño y metrología.</span></p>
+                    </div>
+                    <div class="col-12 col-md-5">
+                        <h4 class="footer-subtitulo-2 mt-0">
+                            <div class="fa fa-caret-right mr-2"></div>Diseño y desarrollo de recursos educativos digitales
+                        </h4>
+                        <p class="footer-texto"><strong>Francisco José Lizcano Reyes </strong><br /> <span class="text-small">Responsable del equipo<br /></span></p>
+                        <p class="footer-texto"><strong>Leyson Fabian Castaño Perez</strong><br /> <span class="text-small">Integración de recursos y pruebas<br /></span></p>
+                        <p class="footer-texto"> <strong>Carlos Julian Ramirez Benitez</strong><br />
+                            <strong>Yazmin Rocio Figueroa Pacheco </strong><br /><span class="text-small">Diseño Web & Producción Audiovisual<br /></span></p>
+                        <p class="footer-texto"><strong>Edward Leonardo Pico Cabra</strong><br />
+                            <strong>Luis Gabriel Urueta Alvarez </strong><br /><span class="text-small">Desarrollo Front-End<br /></span></p>
+                        <p class="footer-texto"><span class="text-small text-uppercase">CENTRO INDUSTRIAL DEL DISEÑO Y LA MANUFACTURA </span><br><span class="text-small">Regional Santander </span></p>
+                        <h4 class="footer-subtitulo-2 mt-5">
+                            <div class="fa fa-caret-right mr-2"></div>Gestores de repositorio
+                        </h4>
+                        <p class="footer-texto"><strong>Kely Alejandra Quiros Duarte </strong><br /> <span class="text-small">Administrador repositorio de contenidos y gestores de repositorio.<br /></span></p>
+                        <p class="footer-texto"><span class="text-small text-uppercase">Centro de comercio y servicios </span><br><span class="text-small">Regional Tolima</span></p>
+                    </div>
+                    <div class="col-12 col-md-2">
+                        <div class="d-flex flex-column justify-content-center"><img src="assets/images/logos/senaLogo.svg" style="max-width:100px"></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <section id="cc">
+            <div class="container">
+                <div class="d-flex flex-column flex-sm-row"><span class="pr-3"><i class="icon cc"></i></span><span>Este material puede ser distribuido, copiado y exhibido por terceros si se muestra en los créditos. No se puede obtener ningún beneficio comercial y las obras derivadas tienen que estar bajo los mismos términos de la licencia que el trabajo original.</span></div>
+            </div>
+        </section><a class="scroll-to-top-btn">
+            <div class="fa fa-angle-up fa-2x"></div>
+        </a>
+        <script src="assets/js/vendor.js"></script>
+        <script src="js/local.js"></script>
+    </body>
+</html>

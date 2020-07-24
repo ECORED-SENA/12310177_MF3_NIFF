@@ -1,19 +1,14 @@
+include ../mixins/functions
+
 .container
 
-  ol
+    .header-ecored
+        h1 Referencias bibliográficas
 
-    li
-      p 
-        | Godoy, R. (2018). Adopción por primera vez a las niif-esfa : Plenas, pymes y microempresas. Retrieved from 
-        a(href="https://ebookcentral-proquest-com.bdigital.sena.edu.co", target="_blank") https://ebookcentral-proquest-com.bdigital.sena.edu.co
+    .jumbotron.bg-white.referencias
+        +referenciaItem("Godoy, R. (2018). Adopción por primera vez a las niif-esfa : Plenas, pymes y microempresas. Retrieved from", "https://ebookcentral-proquest-com.bdigital.sena.edu.co")
 
+        +referenciaItem("MINCIT, (2012). Decreto 2706 de 2012. Página Web Normas de Información Financiera, www.niif.com.co: ", "https://niif.com.co/decreto-2706-2012/marco-tecnico-nif-grupo-3")
 
-    li
-      p 
-        | MINCIT, (2012). Decreto 2706 de 2012. Página Web Normas de Información Financiera, www.niif.com.co: 
-        a(href="https://niif.com.co/decreto-2706-2012/marco-tecnico-nif-grupo-3", target="_blank") https://niif.com.co/decreto-2706-2012/marco-tecnico-nif-grupo-3
-        
-    li
-      p 
-        | Ramírez, (2017). NIIF para Microempresas. Normas de Información Financiera para Microempresas con ejercicios de aplicación. Universidad Libre. Bogotá y Cali. Grupo de Investigación, Gestión y Apoyo a Mipymes. Página web Universidad Libre de Colombia 
-        a(href="http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf", target="_blank") http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf
+        +referenciaItem("Ramírez, (2017). NIIF para Microempresas. Normas de Información Financiera para Microempresas con ejercicios de aplicación. Universidad Libre. Bogotá y Cali. Grupo de Investigación, Gestión y Apoyo a Mipymes. Página web Universidad Libre de Colombia ", "http://www.unilibre.edu.co/bogota/pdfs/2017/NIF-MICROEMPRESAS.pdf")
+
