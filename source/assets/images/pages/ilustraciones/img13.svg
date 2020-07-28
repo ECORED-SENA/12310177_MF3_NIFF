@@ -1,0 +1,1339 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="991.952" height="813.469" viewBox="0 0 991.952 813.469">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_9837" data-name="Trazado 9837" d="M0,0H864V-612H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_9841" data-name="Trazado 9841" d="M1,0H864V-611H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_9842" data-name="Trazado 9842" d="M1-528H218v-83H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Trazado_9845" data-name="Trazado 9845" d="M1-528H864v-83H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Trazado_9847" data-name="Trazado 9847" d="M547-528H701v-83H547Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Trazado_9850" data-name="Trazado 9850" d="M702-528H863v-83H702Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="Trazado_9852" data-name="Trazado 9852" d="M1-387H864V-527H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <path id="Trazado_9854" data-name="Trazado 9854" d="M702-387H863V-527H702Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Trazado_9856" data-name="Trazado 9856" d="M389-282H546V-386H389Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-21">
+      <path id="Trazado_9860" data-name="Trazado 9860" d="M702-282H863V-386H702Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-26">
+      <path id="Trazado_9865" data-name="Trazado 9865" d="M389-127H546V-281H389Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-30">
+      <path id="Trazado_9869" data-name="Trazado 9869" d="M389-43H546v-83H389Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-33">
+      <path id="Trazado_9872" data-name="Trazado 9872" d="M389-1H546V-42H389Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-35">
+      <path id="Trazado_9874" data-name="Trazado 9874" d="M1-1H218V-527H1Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-49">
+      <path id="Trazado_9888" data-name="Trazado 9888" d="M219-282H388V-527H219Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-54">
+      <path id="Trazado_9893" data-name="Trazado 9893" d="M547-282H701V-527H547Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-61">
+      <path id="Trazado_9900" data-name="Trazado 9900" d="M219-1H388V-281H219Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-72">
+      <path id="Trazado_9911" data-name="Trazado 9911" d="M547-1H701V-281H547Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-77">
+      <path id="Trazado_9916" data-name="Trazado 9916" d="M702-1H863V-281H702Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-108.925" y1="-0.154" x2="-109.479" y2="1.009" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#534e64"/>
+      <stop offset="1" stop-color="#3f3c4d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-23.447" y1="0.135" x2="-24.151" y2="0.936" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="107.628" y1="1.432" x2="107.628" y2="2.112" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e85f5a"/>
+      <stop offset="1" stop-color="#eec9c8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-3.878" y1="3.225" x2="-4.853" y2="2.789" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eec9c8"/>
+      <stop offset="0.25" stop-color="#edc3c2"/>
+      <stop offset="0.57" stop-color="#ebb3b2"/>
+      <stop offset="0.926" stop-color="#e89a98"/>
+      <stop offset="1" stop-color="#e89492"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_6807" data-name="Grupo 6807" transform="translate(-128 -830)">
+    <text id="Tabla_10._Reconocimiento_Inicial_Medición_e_Información_a_Revelar_de_las_Obligaciones_Financieras_y_Cuentas_por_Pagar" data-name="Tabla 10. Reconocimiento Inicial, Medición e Información a Revelar de las Obligaciones Financieras y Cuentas por Pagar" transform="translate(217.5 830)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="8.68" y="17">Tabla 10. Reconocimiento Inicial, Medición e Información a Revelar de las Obligaciones </tspan><tspan x="224.785" y="39">Financieras y Cuentas por Pagar</tspan></text>
+    <g id="Grupo_5672" data-name="Grupo 5672" transform="translate(128 1546)">
+      <g id="Grupo_5476" data-name="Grupo 5476" clip-path="url(#clip-path)">
+        <path id="Trazado_9836" data-name="Trazado 9836" d="M0-612H864v1H0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5477" data-name="Grupo 5477" clip-path="url(#clip-path)">
+        <path id="Trazado_9838" data-name="Trazado 9838" d="M0-612H1V0H0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5478" data-name="Grupo 5478" clip-path="url(#clip-path-3)">
+        <path id="Trazado_9840" data-name="Trazado 9840" d="M0-612H864v85H0Z" fill="#e3f39a"/>
+      </g>
+      <g id="Grupo_5480" data-name="Grupo 5480" clip-path="url(#clip-path-4)">
+        <text id="Reconocimiento_inicial_de_obligaciones_financieras_y_cuentas_por_pagar" data-name="Reconocimiento inicial de
+obligaciones financieras y
+cuentas por pagar" transform="translate(110 -581)" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-89.653" y="0">Reconocimiento inicial de</tspan><tspan x="-90.012" y="14">obligaciones financieras y</tspan><tspan x="-63.28" y="28">cuentas por pagar</tspan></text>
+      </g>
+      <g id="Grupo_5486" data-name="Grupo 5486" clip-path="url(#clip-path-7)">
+        <g id="Grupo_5485" data-name="Grupo 5485" transform="translate(267 -565)">
+          <g id="Grupo">
+            <text id="Medición" transform="translate(7)" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="-0.014em"><tspan x="0" y="0">Medición</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5488" data-name="Grupo 5488" clip-path="url(#clip-path-7)">
+        <g id="Grupo_5487" data-name="Grupo 5487" transform="translate(405 -565)">
+          <g id="Grupo-2" data-name="Grupo">
+            <text id="Baja_de_cuentas" data-name="Baja de cuentas" transform="translate(9)" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700" letter-spacing="-0.029em"><tspan x="0" y="0">Baja de cuentas</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5494" data-name="Grupo 5494" clip-path="url(#clip-path-9)">
+        <text id="Presentación_en_los_estados_financieros" data-name="Presentación en
+los estados
+financieros" transform="translate(624 -578)" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-56.277" y="0">Presentación en</tspan><tspan x="-38.893" y="14">los estados</tspan><tspan x="-38.996" y="28">financieros</tspan></text>
+      </g>
+      <g id="Grupo_5496" data-name="Grupo 5496" clip-path="url(#clip-path-11)">
+        <g id="Grupo_5495" data-name="Grupo 5495" transform="translate(724 -575)">
+          <g id="Grupo-3" data-name="Grupo">
+            <text id="Información_a_revelar" data-name="Información a
+revelar" transform="translate(58 3)" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-48.959" y="0">Información a</tspan><tspan x="-24.695" y="14">revelar</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5500" data-name="Grupo 5500" clip-path="url(#clip-path-13)">
+        <g id="Grupo_5499" data-name="Grupo 5499" transform="translate(400 -463)">
+          <text id="Tendrá_lugar_" data-name="Tendrá lugar " font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">Tendrá lugar </tspan></text>
+        </g>
+      </g>
+      <g id="Grupo_5502" data-name="Grupo 5502" clip-path="url(#clip-path-13)">
+        <g id="Grupo_5501" data-name="Grupo 5501" transform="translate(400 -442)">
+          <g id="Grupo-4" data-name="Grupo">
+            <text id="cuando" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cuando</tspan></text>
+            <text id=":" transform="translate(49.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">:</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5504" data-name="Grupo 5504" clip-path="url(#clip-path-15)">
+        <g id="Grupo_5503" data-name="Grupo 5503" transform="translate(713 -463)">
+          <g id="Grupo-5" data-name="Grupo">
+            <text id="Un" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">Un</tspan></text>
+            <text id="a" transform="translate(19.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">a</tspan></text>
+            <text id="_" data-name=" " transform="translate(27.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0"> </tspan></text>
+            <text id="mi" transform="translate(30.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">mi</tspan></text>
+            <text id="c" transform="translate(47.989)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">c</tspan></text>
+            <text id="r" transform="translate(54.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">r</tspan></text>
+            <text id="o" transform="translate(60.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">o</tspan></text>
+            <text id="e" transform="translate(68.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">e</tspan></text>
+            <text id="mp" transform="translate(76.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">mp</tspan></text>
+            <text id="r-2" data-name="r" transform="translate(98.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">r</tspan></text>
+            <text id="e-2" data-name="e" transform="translate(104.985)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s" transform="translate(112.983)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">s</tspan></text>
+            <text id="a-2" data-name="a" transform="translate(119.987)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">a</tspan></text>
+            <text id="_2" data-name=" " transform="translate(127.985)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5506" data-name="Grupo 5506" clip-path="url(#clip-path-15)">
+        <g id="Grupo_5505" data-name="Grupo 5505" transform="translate(713 -442)">
+          <g id="Grupo-6" data-name="Grupo">
+            <text id="rev" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">rev</tspan></text>
+            <text id="elará:" transform="translate(20.997)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">elará:</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5508" data-name="Grupo 5508" clip-path="url(#clip-path-17)">
+        <g id="Grupo_5507" data-name="Grupo 5507" transform="translate(400 -361)">
+          <g id="Grupo-7" data-name="Grupo">
+            <text id="a_" data-name="a)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">a)</tspan></text>
+            <text id="_Cuando_haya_sido" data-name=" Cuando haya sido" transform="translate(11.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0" xml:space="preserve"> Cuando haya sido</tspan></text>
+            <text id="_3" data-name=" " transform="translate(131.953)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5510" data-name="Grupo 5510" clip-path="url(#clip-path-17)">
+        <g id="Grupo_5509" data-name="Grupo 5509" transform="translate(400 -340)">
+          <g id="Grupo-8" data-name="Grupo">
+            <text id="pagada_o" data-name="pagada o" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">pagada o</tspan></text>
+            <text id="_cance" data-name=" cance" transform="translate(62.009)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> cance</tspan></text>
+            <text id="lada_" data-name="lada " transform="translate(105.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">lada </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5512" data-name="Grupo 5512" clip-path="url(#clip-path-17)">
+        <g id="Grupo_5511" data-name="Grupo 5511" transform="translate(400 -319)">
+          <g id="Grupo-9" data-name="Grupo">
+            <text id="en" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">en</tspan></text>
+            <text id="_4" data-name=" " transform="translate(17.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+            <text id="su" transform="translate(21.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">su</tspan></text>
+            <text id="_5" data-name=" " transform="translate(37.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+            <text id="to" transform="translate(41.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">to</tspan></text>
+            <text id="tal" transform="translate(54.015)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">tal</tspan></text>
+            <text id="i" transform="translate(71.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">i</tspan></text>
+            <text id="d" transform="translate(75.009)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">d</tspan></text>
+            <text id="ad" transform="translate(84.017)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">ad</tspan></text>
+            <text id="_6" data-name=" " transform="translate(101.024)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+            <text id="o-2" data-name="o" transform="translate(105.02)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_7" data-name=" " transform="translate(113.019)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5514" data-name="Grupo 5514" clip-path="url(#clip-path-17)">
+        <g id="Grupo_5513" data-name="Grupo 5513" transform="translate(400 -298)">
+          <g id="Grupo-10" data-name="Grupo">
+            <text id="bie" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">bie</tspan></text>
+            <text id="n_hay" data-name="n hay" transform="translate(20.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">n hay</tspan></text>
+            <text id="a_e" data-name="a e" transform="translate(58.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">a e</tspan></text>
+            <text id="x" transform="translate(78.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">x</tspan></text>
+            <text id="pirado" transform="translate(85.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">pirado</tspan></text>
+            <text id="_." data-name="." transform="translate(129.013)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5516" data-name="Grupo 5516" clip-path="url(#clip-path-21)">
+        <g id="Grupo_5515" data-name="Grupo 5515" transform="translate(713 -371)">
+          <g id="Grupo-11" data-name="Grupo">
+            <text id="a_2" data-name="a)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">a)</tspan></text>
+            <text id="_8" data-name="            " transform="translate(11.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">            </tspan></text>
+            <text id="_El" data-name=" El" transform="translate(14.942)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0" xml:space="preserve"> El</tspan></text>
+            <text id="_v" data-name=" v" transform="translate(30.933)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0" xml:space="preserve"> v</tspan></text>
+            <text id="al" transform="translate(41.934)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">al</tspan></text>
+            <text id="o-3" data-name="o" transform="translate(53.93)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">o</tspan></text>
+            <text id="r_en_" data-name="r en " transform="translate(61.929)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">r en </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5518" data-name="Grupo 5518" clip-path="url(#clip-path-21)">
+        <g id="Grupo_5517" data-name="Grupo 5517" transform="translate(713 -350)">
+          <g id="Grupo-12" data-name="Grupo">
+            <text id="lo" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">lo</tspan></text>
+            <text id="s_libro" data-name="s libro" transform="translate(12.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">s libro</tspan></text>
+            <text id="s_de" data-name="s de" transform="translate(54.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">s de</tspan></text>
+            <text id="_la" data-name=" la" transform="translate(81.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0" xml:space="preserve"> la</tspan></text>
+            <text id="s_" data-name="s " transform="translate(98.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">s </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5520" data-name="Grupo 5520" clip-path="url(#clip-path-21)">
+        <g id="Grupo_5519" data-name="Grupo 5519" transform="translate(713 -329)">
+          <g id="Grupo-13" data-name="Grupo">
+            <text id="ob" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">ob</tspan></text>
+            <text id="l" transform="translate(17.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">l</tspan></text>
+            <text id="i-2" data-name="i" transform="translate(21.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">i</tspan></text>
+            <text id="g" transform="translate(24.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">g</tspan></text>
+            <text id="a-3" data-name="a" transform="translate(32.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="c-2" data-name="c" transform="translate(40.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">c</tspan></text>
+            <text id="i-3" data-name="i" transform="translate(48.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">i</tspan></text>
+            <text id="on" transform="translate(51.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">on</tspan></text>
+            <text id="e-3" data-name="e" transform="translate(69.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s-2" data-name="s" transform="translate(77.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_9" data-name=" " transform="translate(84.011)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5522" data-name="Grupo 5522" clip-path="url(#clip-path-21)">
+        <g id="Grupo_5521" data-name="Grupo 5521" transform="translate(713 -308)">
+          <g id="Grupo-14" data-name="Grupo">
+            <text id="fi" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">fi</tspan></text>
+            <text id="nanci" transform="translate(9.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">nanci</tspan></text>
+            <text id="eras_y" data-name="eras y" transform="translate(46.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">eras y</tspan></text>
+            <text id="_cuentas_" data-name=" cuentas " transform="translate(86.02)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0" xml:space="preserve"> cuentas </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5524" data-name="Grupo 5524" clip-path="url(#clip-path-21)">
+        <g id="Grupo_5523" data-name="Grupo 5523" transform="translate(713 -287)">
+          <g id="Grupo-15" data-name="Grupo">
+            <text id="po" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">po</tspan></text>
+            <text id="r_pagar_a_su_cargo" data-name="r pagar a su cargo" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">r pagar a su cargo</tspan></text>
+            <text id="_.-2" data-name="." transform="translate(139.02)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5526" data-name="Grupo 5526" clip-path="url(#clip-path-26)">
+        <g id="Grupo_5525" data-name="Grupo 5525" transform="translate(400 -231)">
+          <g id="Grupo-16" data-name="Grupo">
+            <text id="b_" data-name="b)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">b)</tspan></text>
+            <text id="Cuando_se_realice" data-name="Cuando se realice" transform="translate(22.004)" font-size="14" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Cuando se realice</tspan></text>
+            <text id="_10" data-name=" " transform="translate(133.001)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5528" data-name="Grupo 5528" clip-path="url(#clip-path-26)">
+        <g id="Grupo_5527" data-name="Grupo 5527" transform="translate(400 -210)">
+          <g id="Grupo-17" data-name="Grupo">
+            <text id="una_pe" data-name="una pe" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">una pe</tspan></text>
+            <text id="rm" transform="translate(47.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">rm</tspan></text>
+            <text id="ut" transform="translate(66.013)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">ut</tspan></text>
+            <text id="a_e-2" data-name="a e" transform="translate(80.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">a e</tspan></text>
+            <text id="nt" transform="translate(100.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">nt</tspan></text>
+            <text id="re" transform="translate(114.009)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">re</tspan></text>
+            <text id="_11" data-name=" " transform="translate(128.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5530" data-name="Grupo 5530" clip-path="url(#clip-path-26)">
+        <g id="Grupo_5529" data-name="Grupo 5529" transform="translate(400 -189)">
+          <g id="Grupo-18" data-name="Grupo">
+            <text id="un_pre" data-name="un pre" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">un pre</tspan></text>
+            <text id="st" transform="translate(45.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">st</tspan></text>
+            <text id="am" transform="translate(56.997)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">am</tspan></text>
+            <text id="ist" transform="translate(78.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">ist</tspan></text>
+            <text id="a_y" data-name="a y" transform="translate(94.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">a y</tspan></text>
+            <text id="_un_" data-name=" un " transform="translate(113.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0" xml:space="preserve"> un </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5532" data-name="Grupo 5532" clip-path="url(#clip-path-26)">
+        <g id="Grupo_5531" data-name="Grupo 5531" transform="translate(400 -168)">
+          <g id="Grupo-19" data-name="Grupo">
+            <text id="pre" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">pre</tspan></text>
+            <text id="st-2" data-name="st" transform="translate(22.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">st</tspan></text>
+            <text id="at" transform="translate(34.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">at</tspan></text>
+            <text id="ario" transform="translate(47.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">ario</tspan></text>
+            <text id="_.-3" data-name="." transform="translate(74.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5534" data-name="Grupo 5534" clip-path="url(#clip-path-30)">
+        <g id="Grupo_5533" data-name="Grupo 5533" transform="translate(400 -101)">
+          <g id="Grupo-20" data-name="Grupo">
+            <text id="c_" data-name="c)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">c)</tspan></text>
+            <text id="_Cuando_se_condone" data-name=" Cuando se condone" transform="translate(11.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.02em"><tspan x="0" y="0" xml:space="preserve"> Cuando se condone</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5536" data-name="Grupo 5536" clip-path="url(#clip-path-30)">
+        <g id="Grupo_5535" data-name="Grupo 5535" transform="translate(400 -80)">
+          <g id="Grupo-21" data-name="Grupo">
+            <text id="la" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">la</tspan></text>
+            <text id="_o" data-name=" o" transform="translate(12.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0" xml:space="preserve"> o</tspan></text>
+            <text id="bliga" transform="translate(24.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">bliga</tspan></text>
+            <text id="ció" transform="translate(57.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">ció</tspan></text>
+            <text id="n_o" data-name="n o" transform="translate(76.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">n o</tspan></text>
+            <text id="_12" data-name=" " transform="translate(97.013)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5538" data-name="Grupo 5538" clip-path="url(#clip-path-30)">
+        <g id="Grupo_5537" data-name="Grupo 5537" transform="translate(400 -59)">
+          <g id="Grupo-22" data-name="Grupo">
+            <text id="cuent" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cuent</tspan></text>
+            <text id="a_po" data-name="a po" transform="translate(37.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">a po</tspan></text>
+            <text id="r_pagar" data-name="r pagar" transform="translate(66.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">r pagar</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5540" data-name="Grupo 5540" clip-path="url(#clip-path-33)">
+        <g id="Grupo_5539" data-name="Grupo 5539" transform="translate(400 -27)">
+          <g id="Grupo-23" data-name="Grupo">
+            <text id="d_" data-name="d)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">d)</tspan></text>
+            <text id="_Cuando_se_realice" data-name=" Cuando se realice" transform="translate(13.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> Cuando se realice</tspan></text>
+            <text id="_13" data-name=" " transform="translate(133.001)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5542" data-name="Grupo 5542" clip-path="url(#clip-path-33)">
+        <g id="Grupo_5541" data-name="Grupo 5541" transform="translate(400 -6)">
+          <g id="Grupo-24" data-name="Grupo">
+            <text id="su_cast" data-name="su cast" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">su cast</tspan></text>
+            <text id="igo" transform="translate(46.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">igo</tspan></text>
+            <text id="_.-4" data-name="." transform="translate(66.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5544" data-name="Grupo 5544" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5543" data-name="Grupo 5543" transform="translate(12 -396)">
+          <g id="Grupo-25" data-name="Grupo">
+            <text id="La-2" data-name="La" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">La</tspan></text>
+            <text id="s-3" data-name="s" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_14" data-name=" " transform="translate(21.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+            <text id="ob-2" data-name="ob" transform="translate(25.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">ob</tspan></text>
+            <text id="l-2" data-name="l" transform="translate(42.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">l</tspan></text>
+            <text id="i-4" data-name="i" transform="translate(46.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">i</tspan></text>
+            <text id="g-2" data-name="g" transform="translate(51.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">g</tspan></text>
+            <text id="a-4" data-name="a" transform="translate(58.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">a</tspan></text>
+            <text id="c-3" data-name="c" transform="translate(66.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">c</tspan></text>
+            <text id="i-5" data-name="i" transform="translate(73.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">i</tspan></text>
+            <text id="on-2" data-name="on" transform="translate(77.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">on</tspan></text>
+            <text id="e-4" data-name="e" transform="translate(94.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s-4" data-name="s" transform="translate(102.984)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_15" data-name=" " transform="translate(109.984)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+            <text id="financieras_y" data-name="financieras y" transform="translate(113.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">financieras y</tspan></text>
+            <text id="_16" data-name=" " transform="translate(201.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5546" data-name="Grupo 5546" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5545" data-name="Grupo 5545" transform="translate(12 -375)">
+          <g id="Grupo-26" data-name="Grupo">
+            <text id="cu" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.012em"><tspan x="0" y="0">cu</tspan></text>
+            <text id="en-2" data-name="en" transform="translate(18.001)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.012em"><tspan x="0" y="0">en</tspan></text>
+            <text id="tas_p" data-name="tas p" transform="translate(34.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.012em"><tspan x="0" y="0">tas p</tspan></text>
+            <text id="o-4" data-name="o" transform="translate(67.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.012em"><tspan x="0" y="0">o</tspan></text>
+            <text id="r_p" data-name="r p" transform="translate(75.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.012em"><tspan x="0" y="0">r p</tspan></text>
+            <text id="agar_se_" data-name="agar se " transform="translate(93.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.012em"><tspan x="0" y="0">agar se </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5548" data-name="Grupo 5548" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5547" data-name="Grupo 5547" transform="translate(12 -354)">
+          <g id="Grupo-27" data-name="Grupo">
+            <text id="reco" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">reco</tspan></text>
+            <text id="no" transform="translate(29)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">no</tspan></text>
+            <text id="cerán_en_lo" data-name="cerán en lo" transform="translate(45.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">cerán en lo</tspan></text>
+            <text id="s_est" data-name="s est" transform="translate(120.991)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">s est</tspan></text>
+            <text id="ado" transform="translate(151.973)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">ado</tspan></text>
+            <text id="s_2" data-name="s " transform="translate(176.974)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">s </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5550" data-name="Grupo 5550" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5549" data-name="Grupo 5549" transform="translate(12 -333)">
+          <g id="Grupo-28" data-name="Grupo">
+            <text id="fi-2" data-name="fi" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">fi</tspan></text>
+            <text id="nanci-2" data-name="nanci" transform="translate(9.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">nanci</tspan></text>
+            <text id="ero" transform="translate(46.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">ero</tspan></text>
+            <text id="s_so" data-name="s so" transform="translate(68.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">s so</tspan></text>
+            <text id="l-3" data-name="l" transform="translate(94.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">l</tspan></text>
+            <text id="o-5" data-name="o" transform="translate(98.021)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_cuando" data-name=" cuando" transform="translate(106.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0" xml:space="preserve"> cuando</tspan></text>
+            <text id="_17" data-name=" " transform="translate(160.024)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5552" data-name="Grupo 5552" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5551" data-name="Grupo 5551" transform="translate(12 -312)">
+          <g id="Grupo-29" data-name="Grupo">
+            <text id="cum" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cum</tspan></text>
+            <text id="plan_las_co" data-name="plan las co" transform="translate(29.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">plan las co</tspan></text>
+            <text id="ndicio" transform="translate(101.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">ndicio</tspan></text>
+            <text id="nes_para_" data-name="nes para " transform="translate(142.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">nes para </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5554" data-name="Grupo 5554" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5553" data-name="Grupo 5553" transform="translate(12 -291)">
+          <g id="Grupo-30" data-name="Grupo">
+            <text id="reco-2" data-name="reco" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">reco</tspan></text>
+            <text id="no-2" data-name="no" transform="translate(29)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">no</tspan></text>
+            <text id="cim" transform="translate(45.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">cim</tspan></text>
+            <text id="ient" transform="translate(69.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">ient</tspan></text>
+            <text id="o-6" data-name="o" transform="translate(95.981)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_de_pasiv" data-name=" de pasiv" transform="translate(103.984)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0" xml:space="preserve"> de pasiv</tspan></text>
+            <text id="o-7" data-name="o" transform="translate(163.965)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">o</tspan></text>
+            <text id="s_3" data-name="s " transform="translate(171.968)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">s </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5556" data-name="Grupo 5556" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5555" data-name="Grupo 5555" transform="translate(12 -270)">
+          <g id="Grupo-31" data-name="Grupo">
+            <text id="según:_a_" data-name="según: a)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">según: a)</tspan></text>
+            <text id="_es_pro" data-name=" es pro" transform="translate(60.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0" xml:space="preserve"> es pro</tspan></text>
+            <text id="bable_que_" data-name="bable que " transform="translate(107.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">bable que </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5558" data-name="Grupo 5558" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5557" data-name="Grupo 5557" transform="translate(12 -249)">
+          <g id="Grupo-32" data-name="Grupo">
+            <text id="cualquier_beneficio" data-name="cualquier beneficio" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cualquier beneficio</tspan></text>
+            <text id="_18" data-name=" " transform="translate(130.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5560" data-name="Grupo 5560" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5559" data-name="Grupo 5559" transform="translate(12 -228)">
+          <g id="Grupo-33" data-name="Grupo">
+            <text id="eco" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">eco</tspan></text>
+            <text id="n" transform="translate(23.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">n</tspan></text>
+            <text id="ó" transform="translate(32.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">ó</tspan></text>
+            <text id="mi-2" data-name="mi" transform="translate(40.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">mi</tspan></text>
+            <text id="co" transform="translate(57.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">co</tspan></text>
+            <text id="_19" data-name=" " transform="translate(72.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+            <text id="fu" transform="translate(76.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">fu</tspan></text>
+            <text id="tu" transform="translate(90.017)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">tu</tspan></text>
+            <text id="ro" transform="translate(104.028)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">ro</tspan></text>
+            <text id="_20" data-name=" " transform="translate(118.026)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+            <text id="aso" transform="translate(122.021)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">aso</tspan></text>
+            <text id="ci" transform="translate(145.026)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">ci</tspan></text>
+            <text id="ad-2" data-name="ad" transform="translate(156.027)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">ad</tspan></text>
+            <text id="o-8" data-name="o" transform="translate(173.034)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_21" data-name=" " transform="translate(181.034)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5562" data-name="Grupo 5562" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5561" data-name="Grupo 5561" transform="translate(12 -207)">
+          <g id="Grupo-34" data-name="Grupo">
+            <text id="co-2" data-name="co" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">co</tspan></text>
+            <text id="n_la_part" data-name="n la part" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">n la part</tspan></text>
+            <text id="ida_ent" data-name="ida ent" transform="translate(72.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">ida ent</tspan></text>
+            <text id="re_y" data-name="re y" transform="translate(119)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">re y</tspan></text>
+            <text id="_salga_de_" data-name=" salga de " transform="translate(144.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0" xml:space="preserve"> salga de </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5564" data-name="Grupo 5564" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5563" data-name="Grupo 5563" transform="translate(12 -186)">
+          <g id="Grupo-35" data-name="Grupo">
+            <text id="la-3" data-name="la" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">la</tspan></text>
+            <text id="_m" data-name=" m" transform="translate(12.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0" xml:space="preserve"> m</tspan></text>
+            <text id="icro" transform="translate(29.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">icro</tspan></text>
+            <text id="e-5" data-name="e" transform="translate(54.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="m" transform="translate(62.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">m</tspan></text>
+            <text id="pre-2" data-name="pre" transform="translate(75.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">pre</tspan></text>
+            <text id="sa" transform="translate(98.015)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">sa</tspan></text>
+            <text id="_y" data-name="; y" transform="translate(113.015)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">; y</tspan></text>
+            <text id="_b_" data-name=" b)" transform="translate(128.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0" xml:space="preserve"> b)</tspan></text>
+            <text id="_la-2" data-name=" la" transform="translate(145.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0" xml:space="preserve"> la</tspan></text>
+            <text id="_22" data-name=" " transform="translate(161.011)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5566" data-name="Grupo 5566" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5565" data-name="Grupo 5565" transform="translate(12 -165)">
+          <g id="Grupo-36" data-name="Grupo">
+            <text id="part" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">part</tspan></text>
+            <text id="ida_t" data-name="ida t" transform="translate(28.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">ida t</tspan></text>
+            <text id="ie" transform="translate(58.017)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">ie</tspan></text>
+            <text id="ne" transform="translate(70.013)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">ne</tspan></text>
+            <text id="_un_co" data-name=" un co" transform="translate(87.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> un co</tspan></text>
+            <text id="st-3" data-name="st" transform="translate(128.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">st</tspan></text>
+            <text id="o-9" data-name="o" transform="translate(139.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_o-2" data-name=" o" transform="translate(147.991)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> o</tspan></text>
+            <text id="_v-2" data-name=" v" transform="translate(159.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> v</tspan></text>
+            <text id="alo" transform="translate(170.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">alo</tspan></text>
+            <text id="r_" data-name="r " transform="translate(190.989)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">r </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5568" data-name="Grupo 5568" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5567" data-name="Grupo 5567" transform="translate(12 -144)">
+          <g id="Grupo-37" data-name="Grupo">
+            <text id="que" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">que</tspan></text>
+            <text id="_pue" data-name=" pue" transform="translate(25.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> pue</tspan></text>
+            <text id="da_se" data-name="da se" transform="translate(55.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">da se</tspan></text>
+            <text id="r_m" data-name="r m" transform="translate(91.991)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">r m</tspan></text>
+            <text id="e-6" data-name="e" transform="translate(115.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">e</tspan></text>
+            <text id="dido" transform="translate(122.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">dido</tspan></text>
+            <text id="_co" data-name=" co" transform="translate(152.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> co</tspan></text>
+            <text id="n_" data-name="n " transform="translate(171.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">n </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5570" data-name="Grupo 5570" clip-path="url(#clip-path-35)">
+        <g id="Grupo_5569" data-name="Grupo 5569" transform="translate(12 -123)">
+          <g id="Grupo-38" data-name="Grupo">
+            <text id="fi-3" data-name="fi" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">fi</tspan></text>
+            <text id="abi" transform="translate(9.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">abi</tspan></text>
+            <text id="l-4" data-name="l" transform="translate(30.009)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">l</tspan></text>
+            <text id="i-6" data-name="i" transform="translate(34.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">i</tspan></text>
+            <text id="dad" transform="translate(38.02)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">dad</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5572" data-name="Grupo 5572" clip-path="url(#clip-path-49)">
+        <g id="Grupo_5571" data-name="Grupo 5571" transform="translate(230 -442)">
+          <g id="Grupo-39" data-name="Grupo">
+            <text id="La-4" data-name="La" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">La</tspan></text>
+            <text id="s-5" data-name="s" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_23" data-name=" " transform="translate(21.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+            <text id="ob-3" data-name="ob" transform="translate(25.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">ob</tspan></text>
+            <text id="l-5" data-name="l" transform="translate(42.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">l</tspan></text>
+            <text id="i-7" data-name="i" transform="translate(46.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">i</tspan></text>
+            <text id="g-3" data-name="g" transform="translate(51.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">g</tspan></text>
+            <text id="a-5" data-name="a" transform="translate(58.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">a</tspan></text>
+            <text id="c-4" data-name="c" transform="translate(66.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">c</tspan></text>
+            <text id="i-8" data-name="i" transform="translate(73.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">i</tspan></text>
+            <text id="on-3" data-name="on" transform="translate(77.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">on</tspan></text>
+            <text id="e-7" data-name="e" transform="translate(94.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s-6" data-name="s" transform="translate(102.984)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_24" data-name=" " transform="translate(109.984)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5574" data-name="Grupo 5574" clip-path="url(#clip-path-49)">
+        <g id="Grupo_5573" data-name="Grupo 5573" transform="translate(230 -421)">
+          <g id="Grupo-40" data-name="Grupo">
+            <text id="fi-4" data-name="fi" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">fi</tspan></text>
+            <text id="nanci-3" data-name="nanci" transform="translate(9.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">nanci</tspan></text>
+            <text id="eras_co" data-name="eras co" transform="translate(46.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">eras co</tspan></text>
+            <text id="m-2" data-name="m" transform="translate(94.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">m</tspan></text>
+            <text id="o-10" data-name="o" transform="translate(107.009)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_l" data-name=" l" transform="translate(115.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0" xml:space="preserve"> l</tspan></text>
+            <text id="as_" data-name="as " transform="translate(123.015)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">as </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5576" data-name="Grupo 5576" clip-path="url(#clip-path-49)">
+        <g id="Grupo_5575" data-name="Grupo 5575" transform="translate(230 -400)">
+          <g id="Grupo-41" data-name="Grupo">
+            <text id="cuent-2" data-name="cuent" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cuent</tspan></text>
+            <text id="as_po" data-name="as po" transform="translate(37.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">as po</tspan></text>
+            <text id="r_pagar_" data-name="r pagar " transform="translate(73.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">r pagar </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5578" data-name="Grupo 5578" clip-path="url(#clip-path-49)">
+        <g id="Grupo_5577" data-name="Grupo 5577" transform="translate(230 -379)">
+          <g id="Grupo-42" data-name="Grupo">
+            <text id="de" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">de</tspan></text>
+            <text id="be" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">be</tspan></text>
+            <text id="n_m" data-name="n m" transform="translate(33.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">n m</tspan></text>
+            <text id="e-8" data-name="e" transform="translate(59.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">e</tspan></text>
+            <text id="dirse" transform="translate(67.987)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">dirse</tspan></text>
+            <text id="_co-2" data-name=" co" transform="translate(101.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> co</tspan></text>
+            <text id="n_e" data-name="n e" transform="translate(120.98)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">n e</tspan></text>
+            <text id="l_" data-name="l " transform="translate(141.975)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">l </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5580" data-name="Grupo 5580" clip-path="url(#clip-path-49)">
+        <g id="Grupo_5579" data-name="Grupo 5579" transform="translate(230 -358)">
+          <g id="Grupo-43" data-name="Grupo">
+            <text id="co-3" data-name="co" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">co</tspan></text>
+            <text id="st-4" data-name="st" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">st</tspan></text>
+            <text id="o-11" data-name="o" transform="translate(26.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_hist" data-name=" hist" transform="translate(34.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0" xml:space="preserve"> hist</tspan></text>
+            <text id="ó-2" data-name="ó" transform="translate(63.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">ó</tspan></text>
+            <text id="rico" transform="translate(71.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">rico</tspan></text>
+            <text id="_.-5" data-name="." transform="translate(96.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5582" data-name="Grupo 5582" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5581" data-name="Grupo 5581" transform="translate(558 -463)">
+          <g id="Grupo-44" data-name="Grupo">
+            <text id="Un-2" data-name="Un" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">Un</tspan></text>
+            <text id="a-6" data-name="a" transform="translate(19.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">a</tspan></text>
+            <text id="_25" data-name=" " transform="translate(27.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0"> </tspan></text>
+            <text id="mi-3" data-name="mi" transform="translate(30.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">mi</tspan></text>
+            <text id="c-5" data-name="c" transform="translate(47.989)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">c</tspan></text>
+            <text id="r-3" data-name="r" transform="translate(54.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">r</tspan></text>
+            <text id="o-12" data-name="o" transform="translate(60.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">o</tspan></text>
+            <text id="e-9" data-name="e" transform="translate(68.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">e</tspan></text>
+            <text id="mp-2" data-name="mp" transform="translate(76.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">mp</tspan></text>
+            <text id="r-4" data-name="r" transform="translate(98.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">r</tspan></text>
+            <text id="e-10" data-name="e" transform="translate(104.985)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s-7" data-name="s" transform="translate(112.983)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">s</tspan></text>
+            <text id="a-7" data-name="a" transform="translate(119.987)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0">a</tspan></text>
+            <text id="_26" data-name=" " transform="translate(127.985)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.014em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5584" data-name="Grupo 5584" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5583" data-name="Grupo 5583" transform="translate(558 -442)">
+          <text id="clasificará_sus_" data-name="clasificará sus " font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">clasificará sus </tspan></text>
+        </g>
+      </g>
+      <g id="Grupo_5586" data-name="Grupo 5586" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5585" data-name="Grupo 5585" transform="translate(558 -421)">
+          <g id="Grupo-45" data-name="Grupo">
+            <text id="ob-4" data-name="ob" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">ob</tspan></text>
+            <text id="l-6" data-name="l" transform="translate(17.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">l</tspan></text>
+            <text id="i-9" data-name="i" transform="translate(21.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">i</tspan></text>
+            <text id="g-4" data-name="g" transform="translate(24.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">g</tspan></text>
+            <text id="a-8" data-name="a" transform="translate(32.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="c-6" data-name="c" transform="translate(40.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">c</tspan></text>
+            <text id="i-10" data-name="i" transform="translate(48.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">i</tspan></text>
+            <text id="on-4" data-name="on" transform="translate(51.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">on</tspan></text>
+            <text id="e-11" data-name="e" transform="translate(69.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s-8" data-name="s" transform="translate(77.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_27" data-name=" " transform="translate(84.011)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5588" data-name="Grupo 5588" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5587" data-name="Grupo 5587" transform="translate(558 -400)">
+          <g id="Grupo-46" data-name="Grupo">
+            <text id="fi-5" data-name="fi" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">fi</tspan></text>
+            <text id="nanci-4" data-name="nanci" transform="translate(9.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">nanci</tspan></text>
+            <text id="eras_y-2" data-name="eras y" transform="translate(46.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0">eras y</tspan></text>
+            <text id="_28" data-name=" " transform="translate(86.02)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.018em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5590" data-name="Grupo 5590" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5589" data-name="Grupo 5589" transform="translate(558 -379)">
+          <g id="Grupo-47" data-name="Grupo">
+            <text id="cuent-3" data-name="cuent" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cuent</tspan></text>
+            <text id="as_po-2" data-name="as po" transform="translate(37.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">as po</tspan></text>
+            <text id="r_pagar_2" data-name="r pagar," transform="translate(73.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">r pagar,</tspan></text>
+            <text id="_29" data-name=" " transform="translate(125.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5592" data-name="Grupo 5592" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5591" data-name="Grupo 5591" transform="translate(558 -358)">
+          <g id="Grupo-48" data-name="Grupo">
+            <text id="co-4" data-name="co" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">co</tspan></text>
+            <text id="nfo" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">nfo</tspan></text>
+            <text id="rm-2" data-name="rm" transform="translate(36.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">rm</tspan></text>
+            <text id="e_lo" data-name="e lo" transform="translate(56)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">e lo</tspan></text>
+            <text id="_descrit" data-name=" descrit" transform="translate(79.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0" xml:space="preserve"> descrit</tspan></text>
+            <text id="o-13" data-name="o" transform="translate(130.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_30" data-name=" " transform="translate(137.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5594" data-name="Grupo 5594" clip-path="url(#clip-path-54)">
+        <g id="Grupo_5593" data-name="Grupo 5593" transform="translate(558 -337)">
+          <g id="Grupo-49" data-name="Grupo">
+            <text id="en-3" data-name="en" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">en</tspan></text>
+            <text id=":_" data-name=": " transform="translate(17.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">: </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5596" data-name="Grupo 5596" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5595" data-name="Grupo 5595" transform="translate(230 -242)">
+          <g id="Grupo-50" data-name="Grupo">
+            <text id="La-5" data-name="La" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">La</tspan></text>
+            <text id="s-9" data-name="s" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_31" data-name=" " transform="translate(21.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+            <text id="m-3" data-name="m" transform="translate(25.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">m</tspan></text>
+            <text id="i-11" data-name="i" transform="translate(39.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">i</tspan></text>
+            <text id="c-7" data-name="c" transform="translate(43.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">c</tspan></text>
+            <text id="r-5" data-name="r" transform="translate(50.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">r</tspan></text>
+            <text id="oe" transform="translate(56.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">oe</tspan></text>
+            <text id="m-4" data-name="m" transform="translate(72.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">m</tspan></text>
+            <text id="p" transform="translate(85.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">p</tspan></text>
+            <text id="r-6" data-name="r" transform="translate(94.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">r</tspan></text>
+            <text id="e-12" data-name="e" transform="translate(100.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s-10" data-name="s" transform="translate(108.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="a-9" data-name="a" transform="translate(115.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">a</tspan></text>
+            <text id="s-11" data-name="s" transform="translate(123.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0">s</tspan></text>
+            <text id="_32" data-name=" " transform="translate(130.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.019em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5598" data-name="Grupo 5598" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5597" data-name="Grupo 5597" transform="translate(230 -221)">
+          <g id="Grupo-51" data-name="Grupo">
+            <text id="de-2" data-name="de" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">de</tspan></text>
+            <text id="be-2" data-name="be" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">be</tspan></text>
+            <text id="n_e-2" data-name="n e" transform="translate(33.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">n e</tspan></text>
+            <text id="fe" transform="translate(54.982)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">fe</tspan></text>
+            <text id="ct" transform="translate(67.971)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">ct</tspan></text>
+            <text id="uar_a_" data-name="uar a " transform="translate(79.967)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">uar a </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5600" data-name="Grupo 5600" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5599" data-name="Grupo 5599" transform="translate(230 -200)">
+          <g id="Grupo-52" data-name="Grupo">
+            <text id="causació" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">causació</tspan></text>
+            <text id="n_de_lo" data-name="n de lo" transform="translate(57.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">n de lo</tspan></text>
+            <text id="s_4" data-name="s " transform="translate(103.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">s </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5602" data-name="Grupo 5602" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5601" data-name="Grupo 5601" transform="translate(230 -179)">
+          <g id="Grupo-53" data-name="Grupo">
+            <text id="int" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">int</tspan></text>
+            <text id="e-13" data-name="e" transform="translate(17.991)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="re-2" data-name="re" transform="translate(25.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">re</tspan></text>
+            <text id="se" transform="translate(40.001)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">se</tspan></text>
+            <text id="s_e" data-name="s e" transform="translate(55)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">s e</tspan></text>
+            <text id="n_f" data-name="n f" transform="translate(74)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">n f</tspan></text>
+            <text id="o-14" data-name="o" transform="translate(91.991)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">o</tspan></text>
+            <text id="rm-3" data-name="rm" transform="translate(99.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">rm</tspan></text>
+            <text id="a-10" data-name="a" transform="translate(118.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="_33" data-name=" " transform="translate(127.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5604" data-name="Grupo 5604" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5603" data-name="Grupo 5603" transform="translate(230 -158)">
+          <g id="Grupo-54" data-name="Grupo">
+            <text id="pe" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">pe</tspan></text>
+            <text id="rió" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">rió</tspan></text>
+            <text id="dica_" data-name="dica," transform="translate(34.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">dica,</tspan></text>
+            <text id="_34" data-name=" " transform="translate(65.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5606" data-name="Grupo 5606" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5605" data-name="Grupo 5605" transform="translate(230 -137)">
+          <g id="Grupo-55" data-name="Grupo">
+            <text id="regist" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">regist</tspan></text>
+            <text id="rándo" transform="translate(37.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">rándo</tspan></text>
+            <text id="lo-2" data-name="lo" transform="translate(77.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">lo</tspan></text>
+            <text id="s_en_el_" data-name="s en el " transform="translate(89.989)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.021em"><tspan x="0" y="0">s en el </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5608" data-name="Grupo 5608" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5607" data-name="Grupo 5607" transform="translate(230 -116)">
+          <g id="Grupo-56" data-name="Grupo">
+            <text id="estad" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">estad</tspan></text>
+            <text id="o-15" data-name="o" transform="translate(37.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_35" data-name=" " transform="translate(45.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0"> </tspan></text>
+            <text id="d-2" data-name="d" transform="translate(49.011)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">d</tspan></text>
+            <text id="e_" data-name="e " transform="translate(58.019)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">e </tspan></text>
+            <text id="resu" transform="translate(70.014)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">resu</tspan></text>
+            <text id="l-7" data-name="l" transform="translate(100.024)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">l</tspan></text>
+            <text id="tad" transform="translate(104.02)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">tad</tspan></text>
+            <text id="o-16" data-name="o" transform="translate(126.031)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">o</tspan></text>
+            <text id="s_5" data-name="s " transform="translate(134.03)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">s </tspan></text>
+            <text id="y_" data-name="y " transform="translate(145.032)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">y </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5610" data-name="Grupo 5610" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5609" data-name="Grupo 5609" transform="translate(230 -95)">
+          <g id="Grupo-57" data-name="Grupo">
+            <text id="afectando" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">afectando</tspan></text>
+            <text id="_l-2" data-name=" l" transform="translate(66.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0" xml:space="preserve"> l</tspan></text>
+            <text id="as_2" data-name="as " transform="translate(74.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">as </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5612" data-name="Grupo 5612" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5611" data-name="Grupo 5611" transform="translate(230 -74)">
+          <g id="Grupo-58" data-name="Grupo">
+            <text id="co-5" data-name="co" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">co</tspan></text>
+            <text id="rrespo" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">rrespo</tspan></text>
+            <text id="ndient" transform="translate(58.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">ndient</tspan></text>
+            <text id="es_" data-name="es " transform="translate(102.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">es </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5614" data-name="Grupo 5614" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5613" data-name="Grupo 5613" transform="translate(230 -53)">
+          <g id="Grupo-59" data-name="Grupo">
+            <text id="cuent-4" data-name="cuent" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">cuent</tspan></text>
+            <text id="as_del_est" data-name="as del est" transform="translate(37.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">as del est</tspan></text>
+            <text id="ado-2" data-name="ado" transform="translate(101.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">ado</tspan></text>
+            <text id="_de_" data-name=" de " transform="translate(126.98)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0" xml:space="preserve"> de </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5616" data-name="Grupo 5616" clip-path="url(#clip-path-61)">
+        <g id="Grupo_5615" data-name="Grupo 5615" transform="translate(230 -32)">
+          <g id="Grupo-60" data-name="Grupo">
+            <text id="sit" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">sit</tspan></text>
+            <text id="uació" transform="translate(16.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">uació</tspan></text>
+            <text id="n_financiera." data-name="n financiera." transform="translate(51.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">n financiera.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5618" data-name="Grupo 5618" clip-path="url(#clip-path-72)">
+        <g id="Grupo_5617" data-name="Grupo 5617" transform="translate(558 -179)">
+          <g id="Grupo-61" data-name="Grupo">
+            <text id="a_3" data-name="a)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">a)</tspan></text>
+            <text id="_Espera_l" data-name=" Espera l" transform="translate(11.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0" xml:space="preserve"> Espera l</tspan></text>
+            <text id="i-12" data-name="i" transform="translate(69.978)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">i</tspan></text>
+            <text id="qui" transform="translate(73.973)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">qui</tspan></text>
+            <text id="darl" transform="translate(95.956)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">darl</tspan></text>
+            <text id="o-17" data-name="o" transform="translate(122.942)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0">o</tspan></text>
+            <text id="_36" data-name=" " transform="translate(130.942)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.015em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5620" data-name="Grupo 5620" clip-path="url(#clip-path-72)">
+        <g id="Grupo_5619" data-name="Grupo 5619" transform="translate(558 -158)">
+          <g id="Grupo-62" data-name="Grupo">
+            <text id="o_" data-name="o " font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">o </tspan></text>
+            <text id="p-2" data-name="p" transform="translate(11.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">p</tspan></text>
+            <text id="a-11" data-name="a" transform="translate(21.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="g-5" data-name="g" transform="translate(29.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">g</tspan></text>
+            <text id="a-12" data-name="a" transform="translate(37.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="r-7" data-name="r" transform="translate(45.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">r</tspan></text>
+            <text id="l-8" data-name="l" transform="translate(50.999)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">l</tspan></text>
+            <text id="o_2" data-name="o " transform="translate(54.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">o </tspan></text>
+            <text id="e-14" data-name="e" transform="translate(66.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="n-2" data-name="n" transform="translate(74.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">n</tspan></text>
+            <text id="_37" data-name=" " transform="translate(83.997)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+            <text id="e-15" data-name="e" transform="translate(87.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="l-9" data-name="l" transform="translate(95.992)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">l</tspan></text>
+            <text id="_38" data-name=" " transform="translate(99.988)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+            <text id="c-8" data-name="c" transform="translate(103.984)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">c</tspan></text>
+            <text id="u" transform="translate(110.989)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">u</tspan></text>
+            <text id="r-8" data-name="r" transform="translate(119.997)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">r</tspan></text>
+            <text id="s-12" data-name="s" transform="translate(125.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">s</tspan></text>
+            <text id="o_3" data-name="o " transform="translate(133)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">o </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5622" data-name="Grupo 5622" clip-path="url(#clip-path-72)">
+        <g id="Grupo_5621" data-name="Grupo 5621" transform="translate(558 -137)">
+          <g id="Grupo-63" data-name="Grupo">
+            <text id="no-3" data-name="no" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">no</tspan></text>
+            <text id="rm-4" data-name="rm" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">rm</tspan></text>
+            <text id="al_de" data-name="al de" transform="translate(36.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">al de</tspan></text>
+            <text id="l_ciclo" data-name="l ciclo" transform="translate(69.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0">l ciclo</tspan></text>
+            <text id="_de" data-name=" de" transform="translate(107.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0" xml:space="preserve"> de</tspan></text>
+            <text id="_39" data-name=" " transform="translate(128.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.029em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5624" data-name="Grupo 5624" clip-path="url(#clip-path-72)">
+        <g id="Grupo_5623" data-name="Grupo 5623" transform="translate(558 -116)">
+          <g id="Grupo-64" data-name="Grupo">
+            <text id="op" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">op</tspan></text>
+            <text id="e-16" data-name="e" transform="translate(17.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="r-9" data-name="r" transform="translate(25.007)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">r</tspan></text>
+            <text id="a-13" data-name="a" transform="translate(31.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="c-9" data-name="c" transform="translate(39.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">c</tspan></text>
+            <text id="i-13" data-name="i" transform="translate(46.01)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">i</tspan></text>
+            <text id="ón" transform="translate(50.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">ón</tspan></text>
+            <text id="_40" data-name=" " transform="translate(67.012)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+            <text id="d-3" data-name="d" transform="translate(71.008)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">d</tspan></text>
+            <text id="e-17" data-name="e" transform="translate(80.016)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="_41" data-name=" " transform="translate(88.015)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+            <text id="l-10" data-name="l" transform="translate(92.011)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">l</tspan></text>
+            <text id="a-14" data-name="a" transform="translate(96.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0">a</tspan></text>
+            <text id="_42" data-name=" " transform="translate(104.006)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="-0.033em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5626" data-name="Grupo 5626" clip-path="url(#clip-path-72)">
+        <g id="Grupo_5625" data-name="Grupo 5625" transform="translate(558 -95)">
+          <g id="Grupo-65" data-name="Grupo">
+            <text id="emp" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">emp</tspan></text>
+            <text id="resa" transform="translate(30.005)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.01em"><tspan x="0" y="0">resa</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5628" data-name="Grupo 5628" clip-path="url(#clip-path-77)">
+        <g id="Grupo_5627" data-name="Grupo 5627" transform="translate(713 -189)">
+          <g id="Grupo-66" data-name="Grupo">
+            <text id="b_2" data-name="b)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">b)</tspan></text>
+            <text id="E-18" data-name="E" transform="translate(18.003)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">E</tspan></text>
+            <text id="l_v" data-name="l v" transform="translate(24.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">l v</tspan></text>
+            <text id="alo-2" data-name="alo" transform="translate(40.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">alo</tspan></text>
+            <text id="r_de" data-name="r de" transform="translate(60.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">r de</tspan></text>
+            <text id="_lo" data-name=" lo" transform="translate(87.004)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> lo</tspan></text>
+            <text id="s_6" data-name="s " transform="translate(103.002)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">s </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5630" data-name="Grupo 5630" clip-path="url(#clip-path-77)">
+        <g id="Grupo_5629" data-name="Grupo 5629" transform="translate(713 -168)">
+          <g id="Grupo-67" data-name="Grupo">
+            <text id="int-2" data-name="int" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">int</tspan></text>
+            <text id="e-19" data-name="e" transform="translate(17.991)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">e</tspan></text>
+            <text id="re-3" data-name="re" transform="translate(25.995)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">re</tspan></text>
+            <text id="se-2" data-name="se" transform="translate(40.001)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">se</tspan></text>
+            <text id="s_7" data-name="s " transform="translate(55)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.033em"><tspan x="0" y="0">s </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5632" data-name="Grupo 5632" clip-path="url(#clip-path-77)">
+        <g id="Grupo_5631" data-name="Grupo 5631" transform="translate(713 -147)">
+          <g id="Grupo-68" data-name="Grupo">
+            <text id="co-6" data-name="co" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">co</tspan></text>
+            <text id="rrespo-2" data-name="rrespo" transform="translate(14.994)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">rrespo</tspan></text>
+            <text id="ndient-2" data-name="ndient" transform="translate(58.996)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">ndient</tspan></text>
+            <text id="es_al_" data-name="es al " transform="translate(102.998)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.024em"><tspan x="0" y="0">es al </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5634" data-name="Grupo 5634" clip-path="url(#clip-path-77)">
+        <g id="Grupo_5633" data-name="Grupo 5633" transform="translate(713 -126)">
+          <g id="Grupo-69" data-name="Grupo">
+            <text id="pe-2" data-name="pe" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">pe</tspan></text>
+            <text id="rio" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">rio</tspan></text>
+            <text id="do" transform="translate(34.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">do</tspan></text>
+            <text id="_co-3" data-name=" co" transform="translate(51.986)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> co</tspan></text>
+            <text id="nt-2" data-name="nt" transform="translate(70.98)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">nt</tspan></text>
+            <text id="able" transform="translate(84.977)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">able</tspan></text>
+            <text id="_43" data-name="," transform="translate(113.98)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">,</tspan></text>
+            <text id="_que" data-name=" que" transform="translate(116.974)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> que</tspan></text>
+            <text id="_44" data-name=" " transform="translate(146.971)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0"> </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5636" data-name="Grupo 5636" clip-path="url(#clip-path-77)">
+        <g id="Grupo_5635" data-name="Grupo 5635" transform="translate(713 -105)">
+          <g id="Grupo-70" data-name="Grupo">
+            <text id="se_encuent" data-name="se encuent" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">se encuent</tspan></text>
+            <text id="ran_" data-name="ran " transform="translate(73.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.023em"><tspan x="0" y="0">ran </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5638" data-name="Grupo 5638" clip-path="url(#clip-path-77)">
+        <g id="Grupo_5637" data-name="Grupo 5637" transform="translate(713 -84)">
+          <g id="Grupo-71" data-name="Grupo">
+            <text id="pe-3" data-name="pe" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">pe</tspan></text>
+            <text id="ndie" transform="translate(16.993)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">ndie</tspan></text>
+            <text id="nt-3" data-name="nt" transform="translate(46.99)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">nt</tspan></text>
+            <text id="e-20" data-name="e" transform="translate(60.987)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">e</tspan></text>
+            <text id="s_de-2" data-name="s de" transform="translate(68.979)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0">s de</tspan></text>
+            <text id="_pago" data-name=" pago" transform="translate(96.974)" font-size="14" font-family="OpenSans, Open Sans" letter-spacing="0.03em"><tspan x="0" y="0" xml:space="preserve"> pago</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5639" data-name="Grupo 5639" clip-path="url(#clip-path)">
+        <path id="Trazado_9922" data-name="Trazado 9922" d="M0-612H0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5640" data-name="Grupo 5640" clip-path="url(#clip-path)">
+        <path id="Trazado_9924" data-name="Trazado 9924" d="M218-612h0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5641" data-name="Grupo 5641" clip-path="url(#clip-path)">
+        <path id="Trazado_9926" data-name="Trazado 9926" d="M388-612h0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5642" data-name="Grupo 5642" clip-path="url(#clip-path)">
+        <path id="Trazado_9928" data-name="Trazado 9928" d="M546-612h0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5643" data-name="Grupo 5643" clip-path="url(#clip-path)">
+        <path id="Trazado_9930" data-name="Trazado 9930" d="M701-612h0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5644" data-name="Grupo 5644" clip-path="url(#clip-path)">
+        <path id="Trazado_9932" data-name="Trazado 9932" d="M1-612H864v1H1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5645" data-name="Grupo 5645" clip-path="url(#clip-path)">
+        <path id="Trazado_9934" data-name="Trazado 9934" d="M863-612h0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5646" data-name="Grupo 5646" clip-path="url(#clip-path)">
+        <path id="Trazado_9936" data-name="Trazado 9936" d="M1-528H864v1H1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5647" data-name="Grupo 5647" clip-path="url(#clip-path)">
+        <path id="Trazado_9938" data-name="Trazado 9938" d="M389-387H547v1H389Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5648" data-name="Grupo 5648" clip-path="url(#clip-path)">
+        <path id="Trazado_9940" data-name="Trazado 9940" d="M702-387H864v1H702Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5649" data-name="Grupo 5649" clip-path="url(#clip-path)">
+        <path id="Trazado_9942" data-name="Trazado 9942" d="M219-282H864v1H219Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5650" data-name="Grupo 5650" clip-path="url(#clip-path)">
+        <path id="Trazado_9944" data-name="Trazado 9944" d="M389-127H547v1H389Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5651" data-name="Grupo 5651" clip-path="url(#clip-path)">
+        <path id="Trazado_9946" data-name="Trazado 9946" d="M389-43H547v1H389Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5652" data-name="Grupo 5652" clip-path="url(#clip-path)">
+        <path id="Trazado_9948" data-name="Trazado 9948" d="M0-612H1V0H0Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5653" data-name="Grupo 5653" clip-path="url(#clip-path)">
+        <path id="Trazado_9950" data-name="Trazado 9950" d="M218-611h1V0h-1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5654" data-name="Grupo 5654" clip-path="url(#clip-path)">
+        <path id="Trazado_9952" data-name="Trazado 9952" d="M388-611h1V0h-1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5655" data-name="Grupo 5655" clip-path="url(#clip-path)">
+        <path id="Trazado_9954" data-name="Trazado 9954" d="M546-611h1V0h-1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5656" data-name="Grupo 5656" clip-path="url(#clip-path)">
+        <path id="Trazado_9956" data-name="Trazado 9956" d="M701-611h1V0h-1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5657" data-name="Grupo 5657" clip-path="url(#clip-path)">
+        <path id="Trazado_9958" data-name="Trazado 9958" d="M1-1H864V0H1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5658" data-name="Grupo 5658" clip-path="url(#clip-path)">
+        <path id="Trazado_9960" data-name="Trazado 9960" d="M863-611h1V0h-1Z" fill="#18ae4e"/>
+      </g>
+      <g id="Grupo_5659" data-name="Grupo 5659" clip-path="url(#clip-path)">
+        <path id="Trazado_9962" data-name="Trazado 9962" d="M0,0H1V1H0Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5660" data-name="Grupo 5660" clip-path="url(#clip-path)">
+        <path id="Trazado_9964" data-name="Trazado 9964" d="M218,0h1V1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5661" data-name="Grupo 5661" clip-path="url(#clip-path)">
+        <path id="Trazado_9966" data-name="Trazado 9966" d="M388,0h1V1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5662" data-name="Grupo 5662" clip-path="url(#clip-path)">
+        <path id="Trazado_9968" data-name="Trazado 9968" d="M546,0h1V1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5663" data-name="Grupo 5663" clip-path="url(#clip-path)">
+        <path id="Trazado_9970" data-name="Trazado 9970" d="M701,0h1V1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5664" data-name="Grupo 5664" clip-path="url(#clip-path)">
+        <path id="Trazado_9972" data-name="Trazado 9972" d="M863,0h1V1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5665" data-name="Grupo 5665" clip-path="url(#clip-path)">
+        <path id="Trazado_9974" data-name="Trazado 9974" d="M864-612h1v1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5666" data-name="Grupo 5666" clip-path="url(#clip-path)">
+        <path id="Trazado_9976" data-name="Trazado 9976" d="M864-528h1v1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5667" data-name="Grupo 5667" clip-path="url(#clip-path)">
+        <path id="Trazado_9978" data-name="Trazado 9978" d="M864-387h1v1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5668" data-name="Grupo 5668" clip-path="url(#clip-path)">
+        <path id="Trazado_9980" data-name="Trazado 9980" d="M864-282h1v1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5669" data-name="Grupo 5669" clip-path="url(#clip-path)">
+        <path id="Trazado_9982" data-name="Trazado 9982" d="M864-127h1v1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5670" data-name="Grupo 5670" clip-path="url(#clip-path)">
+        <path id="Trazado_9984" data-name="Trazado 9984" d="M864-43h1v1h-1Z" fill="#d3d3d3"/>
+      </g>
+      <g id="Grupo_5671" data-name="Grupo 5671" clip-path="url(#clip-path)">
+        <path id="Trazado_9986" data-name="Trazado 9986" d="M864-1h1V0h-1Z" fill="#d3d3d3"/>
+      </g>
+    </g>
+    <g id="Grupo_5986" data-name="Grupo 5986" transform="translate(2518.643 -38.933)">
+      <path id="Trazado_11118" data-name="Trazado 11118" d="M-1400.61,1935.357l-96.423,55.671a10.24,10.24,0,0,1-9.267,0l-96.423-55.671c-2.559-1.478-2.559-3.873,0-5.35l96.423-55.671a10.241,10.241,0,0,1,9.267,0l96.423,55.671C-1398.051,1931.484-1398.051,1933.879-1400.61,1935.357Z" transform="translate(0 -311.273)" fill="#f3f5f7"/>
+      <path id="Trazado_11119" data-name="Trazado 11119" d="M-1404.458,1927.785l-.463-.267-26.191,15.122-30.626-17.683-.463.267,30.626,17.683-25.959,14.988-30.626-17.682-.464.267,30.626,17.683-25.959,14.988-30.626-17.683-.463.267,30.626,17.683-26.191,15.122.463.268,26.191-15.122,25.959,14.988-26.191,15.122.463.268,26.191-15.122,25.959,14.988-26.191,15.122.464.267,26.191-15.122,21.755,12.561.463-.268-21.755-12.561,25.959-14.988,21.755,12.561.464-.268-21.755-12.561,25.959-14.988,21.755,12.561.463-.268-21.755-12.561,26.191-15.122-.464-.268-26.191,15.122-25.959-14.988,26.191-15.122-.464-.268-26.191,15.122-25.959-14.988Zm-.695,60.888-25.959,14.988-25.959-14.988,25.959-14.988Zm-26.422-15.256-25.959,14.988-25.959-14.988,25.959-14.988Zm52.845,0-25.959,14.988-25.959-14.988,25.959-14.988Zm-26.422-15.255-25.959,14.988-25.959-14.988,25.959-14.988Z" transform="translate(-66.119 -349.448)" fill="#c0c4c7"/>
+      <path id="Trazado_11120" data-name="Trazado 11120" d="M-1400.61,2102.8l-96.423,55.671a10.241,10.241,0,0,1-9.267,0l-96.423-55.671a3.255,3.255,0,0,1-1.919-2.675v1.538a3.256,3.256,0,0,0,1.919,2.675l96.423,55.672a10.243,10.243,0,0,0,9.267,0l96.423-55.672a3.254,3.254,0,0,0,1.919-2.678v-1.533A3.256,3.256,0,0,1-1400.61,2102.8Z" transform="translate(0 -478.719)" fill="#c0c4c7"/>
+      <path id="Trazado_11121" data-name="Trazado 11121" d="M-1010.363,2216.068l-.463.268v1.538l.463-.268Z" transform="translate(-438.219 -564.28)" fill="#a2a6a8"/>
+      <path id="Trazado_11122" data-name="Trazado 11122" d="M-1111.649,2276.059l.463-.267v-1.538l-.463.267Z" transform="translate(-363.815 -607.219)" fill="#a2a6a8"/>
+      <g id="Grupo_5966" data-name="Grupo 5966" transform="translate(-1548.23 1451.432)">
+        <path id="Trazado_11123" data-name="Trazado 11123" d="M-1068.666,2072.777l-.463.267v1.538l.463-.267Z" transform="translate(1153.037 -1909.967)" fill="#a2a6a8"/>
+        <g id="Grupo_5965" data-name="Grupo 5965" transform="translate(0 0)">
+          <path id="Trazado_11124" data-name="Trazado 11124" d="M-1280.5,1490.954l29.285-16.908-39.168-22.615-29.285,16.908Z" transform="translate(1337.927 -1451.432)" fill="#f3f5f7"/>
+          <path id="Trazado_11125" data-name="Trazado 11125" d="M-1279.04,1983.44l28.251-16.311a.325.325,0,0,0,0-.562l-38.135-22.018a1.093,1.093,0,0,0-1.094,0l-28.251,16.311a.325.325,0,0,0,0,.562l38.135,22.018A1.093,1.093,0,0,0-1279.04,1983.44Z" transform="translate(1337.014 -1815.23)" fill="#c0c4c7" opacity="0.5"/>
+          <path id="Trazado_11126" data-name="Trazado 11126" d="M-1170.192,1681.073l29.285-16.907V1538.077l-29.285,16.907Z" transform="translate(1227.618 -1515.373)" fill="#c0c4c7"/>
+          <path id="Trazado_11127" data-name="Trazado 11127" d="M-1280.53,1665.07V1539.014L-1319.7,1516.4v126.056Z" transform="translate(1337.95 -1499.377)" fill="#8f88bd"/>
+          <path id="Trazado_11128" data-name="Trazado 11128" d="M-1309.221,1908.544l33.678,19.443v-29.43l-33.678-19.444Z" transform="translate(1330.218 -1767.049)" fill="#34495e"/>
+          <path id="Trazado_11129" data-name="Trazado 11129" d="M-1276.829,1778.46l-34.367-19.841v61.241l34.367,19.842Z" transform="translate(1331.676 -1678.127)" fill="#3d3857"/>
+          <path id="Trazado_11130" data-name="Trazado 11130" d="M-1309.22,1790.178l33.678,19.444v-29.43l-33.678-19.443Z" transform="translate(1330.217 -1679.698)" fill="#554e79"/>
+          <path id="Trazado_11131" data-name="Trazado 11131" d="M-1309.22,1672.431l33.678,19.444v-29.43L-1309.22,1643Z" transform="translate(1330.217 -1592.805)" fill="#554e79"/>
+          <path id="Trazado_11132" data-name="Trazado 11132" d="M-1309.22,1556.278l33.678,19.443v-29.43l-33.678-19.443Z" transform="translate(1330.217 -1507.087)" fill="#554e79"/>
+          <path id="Trazado_11133" data-name="Trazado 11133" d="M-1315.648,1912.257l33.678,19.444v-29.43l-33.678-19.443Z" transform="translate(1334.96 -1769.789)" fill="#837dad"/>
+          <g id="Grupo_5948" data-name="Grupo 5948" transform="translate(31.453 123.677)">
+            <g id="Grupo_5947" data-name="Grupo 5947" transform="translate(0 0.175)">
+              <path id="Trazado_11134" data-name="Trazado 11134" d="M-1260.5,1939.352l-8.809-5.086v-10.172l8.809,5.086Z" transform="translate(1269.313 -1924.094)" fill="#9891c9"/>
+              <path id="Trazado_11135" data-name="Trazado 11135" d="M-1266.7,1937.206v-8.594l7.442,4.3v8.594Z" transform="translate(1267.387 -1927.428)" fill="#fff"/>
+            </g>
+            <path id="Trazado_11136" data-name="Trazado 11136" d="M-1235.388,1953.022l-.3.175v-10.172l.3-.175Z" transform="translate(1244.502 -1937.761)" fill="#6a6196"/>
+            <path id="Trazado_11137" data-name="Trazado 11137" d="M-1269.311,1923.6l.3-.175,8.809,5.086-.3.175Z" transform="translate(1269.312 -1923.428)" fill="#b4abed"/>
+          </g>
+          <path id="Trazado_11138" data-name="Trazado 11138" d="M-1187.119,1983.706l1.684-.972V1953.3l-1.684.972Z" transform="translate(1240.11 -1821.798)" fill="#554e79"/>
+          <path id="Trazado_11139" data-name="Trazado 11139" d="M-1281.967,1899.526l1.684-.972-33.678-19.444-1.684.972Z" transform="translate(1334.957 -1767.046)" fill="#494369"/>
+          <g id="Grupo_5949" data-name="Grupo 5949" transform="translate(24.013 132.887)">
+            <path id="Trazado_11140" data-name="Trazado 11140" d="M-1287.271,1966.939l1.472-.851V1963.5l-1.472.851Z" transform="translate(1290.006 -1962.213)" fill="#ccd0db"/>
+            <path id="Trazado_11141" data-name="Trazado 11141" d="M-1293.5,1965.613l15.372,8.875,2.239-.431v1.723l-1.471.849h0l-.058.034a2.346,2.346,0,0,1-2.122,0l-17.727-10.235a.779.779,0,0,1-.433-.695c-.007-.274-.007-1.711-.007-1.711l1.969.3Z" transform="translate(1297.707 -1962.597)" fill="#eeebe5"/>
+            <path id="Trazado_11142" data-name="Trazado 11142" d="M-1293.5,1959.873l-1.471.849,15.372,8.875,1.471-.849,2.239,1.292-1.471.849h0l-.058.034a2.346,2.346,0,0,1-2.122,0l-17.727-10.235a.647.647,0,0,1,0-1.225l.058-.033,1.471-.85Z" transform="translate(1297.707 -1958.58)" fill="#fff"/>
+          </g>
+          <path id="Trazado_11143" data-name="Trazado 11143" d="M-1315.648,1675.861l33.678,19.444v-29.43l-33.678-19.443Z" transform="translate(1334.96 -1595.335)" fill="#837dad"/>
+          <path id="Trazado_11144" data-name="Trazado 11144" d="M-1187.119,1747.309l1.684-.972v-29.43l-1.684.972Z" transform="translate(1240.11 -1647.345)" fill="#554e79"/>
+          <path id="Trazado_11145" data-name="Trazado 11145" d="M-1281.967,1663.129l1.684-.972-33.678-19.444-1.684.972Z" transform="translate(1334.957 -1592.592)" fill="#494369"/>
+          <g id="Grupo_5950" data-name="Grupo 5950" transform="translate(24.013 70.945)">
+            <path id="Trazado_11146" data-name="Trazado 11146" d="M-1287.271,1730.542l1.472-.851v-2.585l-1.472.851Z" transform="translate(1290.006 -1725.817)" fill="#ccd0db"/>
+            <path id="Trazado_11147" data-name="Trazado 11147" d="M-1293.5,1729.217l15.372,8.875,2.239-.431v1.723l-1.471.849h0l-.058.033a2.344,2.344,0,0,1-2.122,0l-17.727-10.235a.779.779,0,0,1-.433-.7c-.007-.274-.007-1.71-.007-1.71l1.969.3Z" transform="translate(1297.707 -1726.201)" fill="#eeebe5"/>
+            <path id="Trazado_11148" data-name="Trazado 11148" d="M-1293.5,1723.476l-1.471.85,15.372,8.875,1.471-.849,2.239,1.293-1.471.849h0l-.058.034a2.345,2.345,0,0,1-2.122,0l-17.727-10.235a.647.647,0,0,1,0-1.225l.058-.033,1.471-.849Z" transform="translate(1297.707 -1722.184)" fill="#fff"/>
+          </g>
+          <path id="Trazado_11149" data-name="Trazado 11149" d="M-1315.648,1560.068l33.678,19.444v-29.43l-33.678-19.443Z" transform="translate(1334.96 -1509.883)" fill="#837dad"/>
+          <path id="Trazado_11150" data-name="Trazado 11150" d="M-1187.119,1631.516l1.684-.972v-29.43l-1.684.972Z" transform="translate(1240.11 -1561.893)" fill="#554e79"/>
+          <path id="Trazado_11151" data-name="Trazado 11151" d="M-1281.967,1547.336l1.684-.972-33.678-19.444-1.684.972Z" transform="translate(1334.957 -1507.14)" fill="#b4abed"/>
+          <g id="Grupo_5951" data-name="Grupo 5951" transform="translate(24.013 40.604)">
+            <path id="Trazado_11152" data-name="Trazado 11152" d="M-1287.271,1614.749l1.472-.851v-2.585l-1.472.851Z" transform="translate(1290.006 -1610.023)" fill="#ccd0db"/>
+            <path id="Trazado_11153" data-name="Trazado 11153" d="M-1293.5,1613.423l15.372,8.875,2.239-.431v1.723l-1.471.849h0l-.058.034a2.345,2.345,0,0,1-2.122,0l-17.727-10.235a.779.779,0,0,1-.433-.7c-.007-.274-.007-1.71-.007-1.71l1.969.3Z" transform="translate(1297.707 -1610.407)" fill="#eeebe5"/>
+            <path id="Trazado_11154" data-name="Trazado 11154" d="M-1293.5,1607.682l-1.471.849,15.372,8.875,1.471-.849,2.239,1.293-1.471.849h0l-.058.034a2.345,2.345,0,0,1-2.122,0l-17.727-10.235a.647.647,0,0,1,0-1.225l.058-.034,1.471-.849Z" transform="translate(1297.707 -1606.39)" fill="#fff"/>
+          </g>
+          <path id="Trazado_11155" data-name="Trazado 11155" d="M-1389.35,1814.639l28.557-16.54v-20.721l-28.557,16.54Z" transform="translate(1389.351 -1691.97)" fill="#c9c7c2"/>
+          <path id="Trazado_11156" data-name="Trazado 11156" d="M-1357.426,1786.476l19.312-11.182-1.3-.74-19.21,11.233Z" transform="translate(1366.672 -1689.886)" fill="#fff"/>
+          <g id="Grupo_5953" data-name="Grupo 5953" transform="translate(16.178 89.037)">
+            <g id="Grupo_5952" data-name="Grupo 5952" transform="translate(3.454)">
+              <path id="Trazado_11157" data-name="Trazado 11157" d="M-1314.429,1792.882v21.34l30.855,18.527.627-.351v-24.015l-29.165-16.838C-1313.391,1790.806-1314.429,1791.4-1314.429,1792.882Z" transform="translate(1314.429 -1791.229)" fill="#f6c6cd"/>
+              <path id="Trazado_11158" data-name="Trazado 11158" d="M-1247.167,1809.744l-13.322-7.691c-1.28-.739-2.317-.14-2.317,1.338v2.381l17.955,10.366v-2.38A5.121,5.121,0,0,0-1247.167,1809.744Z" transform="translate(1276.333 -1798.983)" fill="#f6c6cd"/>
+            </g>
+            <path id="Trazado_11159" data-name="Trazado 11159" d="M-1285.34,1807.342a5.12,5.12,0,0,0-2.317-4.013l-13.322-7.691c-1.28-.739-2.317-.14-2.317,1.338v2.381l-11.21-6.472c-1.28-.739-2.317-.14-2.317,1.338v21.34l31.482,18.176v-23.15h0Z" transform="translate(1319.649 -1792.217)" fill="#cd939c"/>
+            <path id="Trazado_11160" data-name="Trazado 11160" d="M-1293.3,1838.4l-2.817,1.625-28.665-19.8-2.827-19.7,2.827-1.635,31.482,18.176Z" transform="translate(1327.61 -1796.876)" fill="#cfcfcf"/>
+            <path id="Trazado_11161" data-name="Trazado 11161" d="M-1296.129,1844.637l-31.482-18.176v-21.34l31.482,18.176Z" transform="translate(1327.611 -1801.481)" fill="#bfbfbf"/>
+            <path id="Trazado_11162" data-name="Trazado 11162" d="M-1324.783,1798.881l-2.827,1.635,31.482,18.176,2.827-1.635Z" transform="translate(1327.61 -1796.876)" fill="#e8e8e8"/>
+          </g>
+          <g id="Grupo_5955" data-name="Grupo 5955" transform="translate(12.685 91.06)">
+            <g id="Grupo_5954" data-name="Grupo 5954" transform="translate(3.454)">
+              <path id="Trazado_11163" data-name="Trazado 11163" d="M-1327.757,1800.6v21.34l30.855,18.527.627-.351V1816.1l-29.165-16.838C-1326.719,1798.527-1327.757,1799.126-1327.757,1800.6Z" transform="translate(1327.757 -1798.95)" fill="#f6c6cd"/>
+              <path id="Trazado_11164" data-name="Trazado 11164" d="M-1260.5,1817.466l-13.321-7.691c-1.28-.739-2.317-.14-2.317,1.338v2.381l17.955,10.366v-2.38A5.12,5.12,0,0,0-1260.5,1817.466Z" transform="translate(1289.661 -1806.705)" fill="#f6c6cd"/>
+            </g>
+            <path id="Trazado_11165" data-name="Trazado 11165" d="M-1298.668,1815.063a5.12,5.12,0,0,0-2.317-4.013l-13.322-7.691c-1.28-.739-2.317-.14-2.317,1.338v2.38l-11.21-6.472c-1.28-.739-2.317-.14-2.317,1.338v21.34l31.482,18.176V1818.31h0Z" transform="translate(1332.977 -1799.939)" fill="#cd939c"/>
+            <path id="Trazado_11166" data-name="Trazado 11166" d="M-1306.63,1846.118l-2.817,1.625-28.665-19.8-2.827-19.7,2.827-1.635,31.482,18.176Z" transform="translate(1340.939 -1804.597)" fill="#cfcfcf"/>
+            <path id="Trazado_11167" data-name="Trazado 11167" d="M-1309.458,1852.358l-31.482-18.175v-21.34l31.482,18.175Z" transform="translate(1340.939 -1809.202)" fill="#bfbfbf"/>
+            <path id="Trazado_11168" data-name="Trazado 11168" d="M-1338.112,1806.6l-2.827,1.635,31.482,18.175,2.827-1.635Z" transform="translate(1340.939 -1804.597)" fill="#e8e8e8"/>
+          </g>
+          <g id="Grupo_5957" data-name="Grupo 5957" transform="translate(9.231 93.043)">
+            <g id="Grupo_5956" data-name="Grupo 5956" transform="translate(3.454)">
+              <path id="Trazado_11169" data-name="Trazado 11169" d="M-1340.94,1808.174v21.34l30.855,18.526.627-.351v-24.015l-29.165-16.838C-1339.9,1806.1-1340.94,1806.7-1340.94,1808.174Z" transform="translate(1340.94 -1806.521)" fill="#f6c6cd"/>
+              <path id="Trazado_11170" data-name="Trazado 11170" d="M-1273.677,1825.036l-13.322-7.691c-1.279-.739-2.317-.14-2.317,1.338v2.381l17.955,10.366v-2.38A5.122,5.122,0,0,0-1273.677,1825.036Z" transform="translate(1302.843 -1814.275)" fill="#f6c6cd"/>
+            </g>
+            <path id="Trazado_11171" data-name="Trazado 11171" d="M-1311.851,1822.634a5.122,5.122,0,0,0-2.317-4.013l-13.322-7.691c-1.279-.739-2.317-.14-2.317,1.338v2.381l-11.21-6.472c-1.28-.739-2.317-.14-2.317,1.338v21.34l31.482,18.175v-23.149h0Z" transform="translate(1346.16 -1807.51)" fill="#cd939c"/>
+            <path id="Trazado_11172" data-name="Trazado 11172" d="M-1319.812,1853.688l-2.817,1.625-28.665-19.8-2.827-19.7,2.827-1.635,31.482,18.176Z" transform="translate(1354.121 -1812.168)" fill="#cfcfcf"/>
+            <path id="Trazado_11173" data-name="Trazado 11173" d="M-1322.64,1859.929l-31.482-18.176v-21.34l31.482,18.176Z" transform="translate(1354.122 -1816.773)" fill="#bfbfbf"/>
+            <path id="Trazado_11174" data-name="Trazado 11174" d="M-1351.294,1814.173l-2.827,1.635,31.482,18.176,2.827-1.635Z" transform="translate(1354.121 -1812.168)" fill="#e8e8e8"/>
+          </g>
+          <path id="Trazado_11175" data-name="Trazado 11175" d="M-1315.647,1887.09v-4.262l33.678,19.443v29.43l-20.242-11.686Z" transform="translate(1334.96 -1769.789)" fill="#1f1b5e" opacity="0.3"/>
+          <path id="Trazado_11176" data-name="Trazado 11176" d="M-1260.812,1901.093l20.994-12.12v-20.722l-20.994,12.12Z" transform="translate(1294.493 -1759.032)" fill="#eeebe5"/>
+          <path id="Trazado_11177" data-name="Trazado 11177" d="M-1260.812,1943.657l20.994-12.12v-2.757l-20.994,12.12Z" transform="translate(1294.493 -1803.701)" fill="#c9c7c2"/>
+          <path id="Trazado_11178" data-name="Trazado 11178" d="M-1264.173,1876.2l20.994-12.121,0-1.493-22.185,12.925Z" transform="translate(1297.854 -1754.85)" fill="#fff"/>
+          <path id="Trazado_11179" data-name="Trazado 11179" d="M-1389.342,1836.5l33.678,19.444v-29.43l-33.678-19.443Z" transform="translate(1389.344 -1713.882)" fill="#837dad"/>
+          <path id="Trazado_11180" data-name="Trazado 11180" d="M-1260.812,1907.947l1.684-.972v-29.43l-1.684.972Z" transform="translate(1294.493 -1765.891)" fill="#554e79"/>
+          <path id="Trazado_11181" data-name="Trazado 11181" d="M-1254.384,1946.944l19.31-11.149v.9l-19.31,11.149Z" transform="translate(1289.749 -1808.878)" fill="#fff"/>
+          <path id="Trazado_11182" data-name="Trazado 11182" d="M-1355.66,1823.767l1.684-.972-33.677-19.444-1.684.972Z" transform="translate(1389.341 -1711.138)" fill="#b4abed"/>
+          <g id="Grupo_5958" data-name="Grupo 5958" transform="translate(4.871 113.834)">
+            <path id="Trazado_11183" data-name="Trazado 11183" d="M-1360.326,1894.223l1.472-.851v-2.585l-1.472.851Z" transform="translate(1363.06 -1889.497)" fill="#ccd0db"/>
+            <path id="Trazado_11184" data-name="Trazado 11184" d="M-1366.553,1892.9l15.372,8.875,2.238-.431v1.723l-1.471.849h0l-.058.034a2.345,2.345,0,0,1-2.122,0l-17.727-10.235a.779.779,0,0,1-.433-.7c-.007-.274-.007-1.71-.007-1.71l1.969.3Z" transform="translate(1370.76 -1889.881)" fill="#eeebe5"/>
+            <path id="Trazado_11185" data-name="Trazado 11185" d="M-1366.553,1887.156l-1.471.849,15.372,8.875,1.471-.849,2.238,1.292-1.471.849h0l-.058.033a2.346,2.346,0,0,1-2.122,0l-17.727-10.235a.647.647,0,0,1,0-1.225l.058-.034,1.471-.849Z" transform="translate(1370.761 -1885.864)" fill="#fff"/>
+          </g>
+          <path id="Trazado_11186" data-name="Trazado 11186" d="M-1204.007,1892.5l6.11-3.481v-20.768l-2.249,1.3Z" transform="translate(1252.573 -1759.032)" fill="#262275" opacity="0.3"/>
+          <path id="Trazado_11187" data-name="Trazado 11187" d="M-1192.841,1865.362l-1.274-.731,3.515-2.048,0,1.483Z" transform="translate(1245.272 -1754.85)" fill="#262275" opacity="0.3"/>
+          <path id="Trazado_11188" data-name="Trazado 11188" d="M-1305.678,1777.675l5.338-3.121,1.3.74-5.371,3.11Z" transform="translate(1327.602 -1689.886)" fill="#262275" opacity="0.3"/>
+          <g id="Grupo_5960" data-name="Grupo 5960" transform="translate(31.453 31.399)">
+            <g id="Grupo_5959" data-name="Grupo 5959" transform="translate(0 0.175)">
+              <path id="Trazado_11189" data-name="Trazado 11189" d="M-1260.5,1587.188l-8.809-5.086V1571.93l8.809,5.086Z" transform="translate(1269.313 -1571.93)" fill="#9891c9"/>
+              <path id="Trazado_11190" data-name="Trazado 11190" d="M-1266.7,1585.041v-8.594l7.442,4.3v8.594Z" transform="translate(1267.387 -1575.264)" fill="#fff"/>
+            </g>
+            <path id="Trazado_11191" data-name="Trazado 11191" d="M-1235.388,1600.858l-.3.175v-10.172l.3-.175Z" transform="translate(1244.502 -1585.596)" fill="#6a6196"/>
+            <path id="Trazado_11192" data-name="Trazado 11192" d="M-1269.311,1571.439l.3-.175,8.809,5.086-.3.175Z" transform="translate(1269.312 -1571.263)" fill="#b4abed"/>
+          </g>
+          <g id="Grupo_5962" data-name="Grupo 5962" transform="translate(31.453 61.715)">
+            <g id="Grupo_5961" data-name="Grupo 5961" transform="translate(0 0.175)">
+              <path id="Trazado_11193" data-name="Trazado 11193" d="M-1260.5,1702.885l-8.809-5.086v-10.172l8.809,5.086Z" transform="translate(1269.313 -1687.627)" fill="#9891c9"/>
+              <path id="Trazado_11194" data-name="Trazado 11194" d="M-1266.7,1700.739v-8.594l7.442,4.3v8.594Z" transform="translate(1267.387 -1690.961)" fill="#fff"/>
+            </g>
+            <path id="Trazado_11195" data-name="Trazado 11195" d="M-1235.388,1716.555l-.3.175v-10.172l.3-.175Z" transform="translate(1244.502 -1701.294)" fill="#6a6196"/>
+            <path id="Trazado_11196" data-name="Trazado 11196" d="M-1269.311,1687.136l.3-.175,8.809,5.086-.3.175Z" transform="translate(1269.312 -1686.961)" fill="#b4abed"/>
+          </g>
+          <g id="Grupo_5964" data-name="Grupo 5964" transform="translate(11.707 104.266)">
+            <g id="Grupo_5963" data-name="Grupo 5963" transform="translate(0 0.175)">
+              <path id="Trazado_11197" data-name="Trazado 11197" d="M-1335.862,1865.274l-8.809-5.086v-10.172l8.81,5.086Z" transform="translate(1344.671 -1850.016)" fill="#9891c9"/>
+              <path id="Trazado_11198" data-name="Trazado 11198" d="M-1342.062,1863.128v-8.594l7.442,4.3v8.594Z" transform="translate(1342.746 -1853.35)" fill="#fff"/>
+            </g>
+            <path id="Trazado_11199" data-name="Trazado 11199" d="M-1310.747,1878.944l-.3.175v-10.172l.3-.175Z" transform="translate(1319.86 -1863.683)" fill="#6a6196"/>
+            <path id="Trazado_11200" data-name="Trazado 11200" d="M-1344.67,1849.525l.3-.175,8.809,5.086-.3.175Z" transform="translate(1344.67 -1849.35)" fill="#b4abed"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_5985" data-name="Grupo 5985" transform="translate(-1497.505 1474.366)">
+        <ellipse id="Elipse_695" data-name="Elipse 695" cx="23.014" cy="13.287" rx="23.014" ry="13.287" transform="translate(24.698 138.53)" fill="#c0c4c7" opacity="0.5"/>
+        <path id="Trazado_11201" data-name="Trazado 11201" d="M-1045.215,2092.612l-.042.7-1.3-1.1Z" transform="translate(1085.65 -1947.241)" fill="url(#linear-gradient)"/>
+        <path id="Trazado_11202" data-name="Trazado 11202" d="M-1044.158,2061.9h-.906a3.6,3.6,0,0,1,3.081-1.067c1.845.321,1.7,2.892,2.195,3.564s1.945,4.164-.069,5.358c-1.533.908-3.163.459-4.3.369Z" transform="translate(1084.552 -1924.049)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_11203" data-name="Trazado 11203" d="M-1087.849,2087.295a6.468,6.468,0,0,0,1.876-1.249h12.353a2.172,2.172,0,0,1-1.021,1.806c-1.855,1.1-3.855.208-4.948.376s-3.479,2.186-7.4,2.989c-2.521.516-5.206.312-5.205-1.226C-1092.2,2089.008-1089.411,2087.854-1087.849,2087.295Z" transform="translate(1119.335 -1942.693)" fill="#544f77"/>
+        <path id="Trazado_11204" data-name="Trazado 11204" d="M-1076.827,2057.493c1.845.321,1.7,2.893,2.195,3.564s1.945,4.164-.069,5.358c-1.855,1.1-3.855.208-4.948.376s-4.68,2.24-7.467,2.819c-2.519.523-5.1.332-5.141-1.055-.028-.983,2.753-2.315,4.316-2.874a20.416,20.416,0,0,0,4.138-2.546c1.588-1.215,3.027-2.415,3.216-2.636C-1079.241,2058.919-1079.244,2057.073-1076.827,2057.493Z" transform="translate(1119.38 -1921.577)" fill="#c46f60"/>
+        <path id="Trazado_11205" data-name="Trazado 11205" d="M-1085.879,2093.879a6.65,6.65,0,0,0-3.27-3.108c-1.522.613-3.132,1.6-3.11,2.386.039,1.388,2.622,1.578,5.141,1.055A12.68,12.68,0,0,0-1085.879,2093.879Z" transform="translate(1119.38 -1946.18)" fill="#b36557"/>
+        <g id="Grupo_5967" data-name="Grupo 5967" transform="translate(28.214 139.227)">
+          <path id="Trazado_11206" data-name="Trazado 11206" d="M-1086.1,2078.189a9.225,9.225,0,0,0,2.406-.353c2.128-.592,3.288-1.184,3.448-1.76.147-.531-.2-.823-.5-1.081a1.087,1.087,0,0,1-.453-.592,33.623,33.623,0,0,1,4.74-3.861.134.134,0,0,0,.029-.187.134.134,0,0,0-.187-.029c-1.841,1.343-4.919,3.664-4.847,4.119a1.315,1.315,0,0,0,.545.754c.322.272.514.457.417.805-.06.217-.5.805-3.262,1.573-1.955.544-3.55.394-3.96-.064a.378.378,0,0,1-.06-.427c.362-.9,4.438-2.575,4.87-2.669a.957.957,0,0,1,.289-.019.97.97,0,0,0,.634-.171c.477-.271,4.149-3.555,4.305-3.695a.135.135,0,0,0,.01-.189.136.136,0,0,0-.189-.01c-1.315,1.177-3.9,3.456-4.259,3.662a.736.736,0,0,1-.487.136,1.185,1.185,0,0,0-.359.025c-.338.073-4.626,1.743-5.062,2.831a.64.64,0,0,0,.11.7A2.578,2.578,0,0,0-1086.1,2078.189Z" transform="translate(1088.089 -2070.3)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5968" data-name="Grupo 5968" transform="translate(35.462 144.409)">
+          <path id="Trazado_11207" data-name="Trazado 11207" d="M-1060.293,2091.2a.126.126,0,0,0,.062-.015c.033-.017,3.293-1.7,4.275-.245a.133.133,0,0,0,.185.036.134.134,0,0,0,.036-.186c-1.114-1.65-4.477.083-4.62.157a.134.134,0,0,0-.057.18A.135.135,0,0,0-1060.293,2091.2Z" transform="translate(1060.427 -2090.077)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5969" data-name="Grupo 5969" transform="translate(34.557 141.789)">
+          <path id="Trazado_11208" data-name="Trazado 11208" d="M-1062.072,2081.312a.267.267,0,0,0,.244-.157.267.267,0,0,0-.133-.354l-1.544-.7a.268.268,0,0,0-.354.133.267.267,0,0,0,.133.354l1.543.7A.269.269,0,0,0-1062.072,2081.312Z" transform="translate(1063.882 -2080.078)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5970" data-name="Grupo 5970" transform="translate(35.387 141.09)">
+          <path id="Trazado_11209" data-name="Trazado 11209" d="M-1058.9,2078.643a.266.266,0,0,0,.243-.157.267.267,0,0,0-.133-.354l-1.544-.7a.267.267,0,0,0-.354.133.267.267,0,0,0,.133.354l1.544.7A.267.267,0,0,0-1058.9,2078.643Z" transform="translate(1060.714 -2077.409)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5971" data-name="Grupo 5971" transform="translate(36.211 140.461)">
+          <path id="Trazado_11210" data-name="Trazado 11210" d="M-1055.758,2076.245a.267.267,0,0,0,.243-.157.267.267,0,0,0-.133-.354l-1.543-.7a.267.267,0,0,0-.354.133.267.267,0,0,0,.133.354l1.544.7A.266.266,0,0,0-1055.758,2076.245Z" transform="translate(1057.569 -2075.01)" fill="#d67969"/>
+        </g>
+        <path id="Trazado_11211" data-name="Trazado 11211" d="M-982.046,2079.042c1.9-.112,2.558,2.7,2.72,4.366s1.325,4,1.163,6.431-1.4,7.271-3.876,8.42c-2.054.954-4.456.212-4.8-1.058-.253-.926.838-5.063,1.38-6.291s.679-2.571,1.439-5.089C-983.146,2082.918-983.947,2079.153-982.046,2079.042Z" transform="translate(1041.613 -1937.522)" fill="#53516e"/>
+        <path id="Trazado_11212" data-name="Trazado 11212" d="M-982.1,2076.926c1.9-.112,2.558,2.7,2.72,4.367s1.325,4,1.163,6.43-1.4,7.271-3.876,8.42c-2.054.954-4.456.213-4.8-1.057-.253-.926.872-5.049,1.38-6.29.984-2.406.417-2.766,1.178-5.285C-983.464,2080.607-984,2077.037-982.1,2076.926Z" transform="translate(1041.655 -1935.961)" fill="#c46f60"/>
+        <path id="Trazado_11213" data-name="Trazado 11213" d="M-979.557,2135.178a12.869,12.869,0,0,0-6.938-1.052,9.415,9.415,0,0,0-.406,3.09c.347,1.27,2.749,2.011,4.8,1.057A5.951,5.951,0,0,0-979.557,2135.178Z" transform="translate(1041.657 -1978.091)" fill="#b36557"/>
+        <g id="Grupo_5972" data-name="Grupo 5972" transform="translate(59.124 147.353)">
+          <path id="Trazado_11214" data-name="Trazado 11214" d="M-967.638,2108.406l.084-.239c.167-.474.72-1.738,1.261-1.894a.36.36,0,0,1,.346.081.134.134,0,0,0,.188-.022.135.135,0,0,0-.022-.188.636.636,0,0,0-.586-.128c-.634.182-1.153,1.333-1.355,1.84a3,3,0,0,0-1.735-.928c-.145-.034-.389-.091-.4-.136-.059-.268.4-3.408.7-5.324a.134.134,0,0,0-.111-.153.134.134,0,0,0-.153.111c-.133.849-.8,5.1-.691,5.444.058.194.285.247.6.319a2.692,2.692,0,0,1,1.73,1.014Z" transform="translate(970.126 -2101.312)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5973" data-name="Grupo 5973" transform="translate(56.136 147.162)">
+          <path id="Trazado_11215" data-name="Trazado 11215" d="M-981.279,2106.878h0c.13-.331.765-.381,1.275-.421.416-.033.717-.057.85-.208a37.193,37.193,0,0,0,.724-5.517.134.134,0,0,0-.122-.145.13.13,0,0,0-.145.122,44.2,44.2,0,0,1-.661,5.367,1.888,1.888,0,0,1-.667.114,3.54,3.54,0,0,0-1.094.2,2.95,2.95,0,0,0,.122-1.2.134.134,0,0,0-.155-.108.134.134,0,0,0-.108.155,3.685,3.685,0,0,1-.267,1.538h0Z" transform="translate(981.528 -2100.584)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5974" data-name="Grupo 5974" transform="translate(55.321 153.187)">
+          <path id="Trazado_11216" data-name="Trazado 11216" d="M-982.324,2129.736a2.661,2.661,0,0,0,1.449-.431c1.919-1.22,2.59-4.584,2.618-4.726a.135.135,0,0,0-.106-.157.136.136,0,0,0-.157.106c-.006.034-.678,3.394-2.5,4.552a2.438,2.438,0,0,1-1.974.3,1.638,1.638,0,0,1-1.133-.89c-.783-1.617.583-4.7.6-4.728a.134.134,0,0,0-.067-.177.132.132,0,0,0-.177.067c-.059.13-1.432,3.224-.594,4.954a1.892,1.892,0,0,0,1.309,1.032A3.01,3.01,0,0,0-982.324,2129.736Z" transform="translate(984.637 -2123.576)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5975" data-name="Grupo 5975" transform="translate(57.607 151.266)">
+          <path id="Trazado_11217" data-name="Trazado 11217" d="M-973.3,2117.063a.268.268,0,0,0,.265-.235.268.268,0,0,0-.234-.3l-2.341-.284a.267.267,0,0,0-.3.233.267.267,0,0,0,.233.3l2.341.284Z" transform="translate(975.914 -2116.244)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5976" data-name="Grupo 5976" transform="translate(57.717 150.237)">
+          <path id="Trazado_11218" data-name="Trazado 11218" d="M-972.886,2113.138a.268.268,0,0,0,.265-.235.268.268,0,0,0-.234-.3l-2.341-.284a.267.267,0,0,0-.3.233.267.267,0,0,0,.233.3l2.341.284Z" transform="translate(975.495 -2112.318)" fill="#d67969"/>
+        </g>
+        <g id="Grupo_5977" data-name="Grupo 5977" transform="translate(57.816 149.28)">
+          <path id="Trazado_11219" data-name="Trazado 11219" d="M-972.508,2109.488a.268.268,0,0,0,.265-.235.267.267,0,0,0-.233-.3l-2.341-.285a.266.266,0,0,0-.3.233.267.267,0,0,0,.233.3l2.341.284Z" transform="translate(975.117 -2108.668)" fill="#d67969"/>
+        </g>
+        <path id="Trazado_11220" data-name="Trazado 11220" d="M-977.772,2084.217c.059-.229.119-.459.194-.706.877-2.9.336-6.473,2.237-6.584s2.558,2.7,2.72,4.367a21.062,21.062,0,0,0,.7,2.922,4.107,4.107,0,0,1-2.328,1.175A4.134,4.134,0,0,1-977.772,2084.217Z" transform="translate(1034.892 -1935.961)" fill="#a15b4e" opacity="0.5"/>
+        <path id="Trazado_11221" data-name="Trazado 11221" d="M-1051.6,2061.388c.543-.449.925-.783,1.015-.889,1.348-1.581,1.345-3.427,3.762-3.006,1.845.321,1.7,2.893,2.195,3.564a4.08,4.08,0,0,1,.389.729C-1045.92,2063.315-1050.656,2063.561-1051.6,2061.388Z" transform="translate(1089.373 -1921.577)" fill="#a15b4e" opacity="0.5"/>
+        <path id="Trazado_11222" data-name="Trazado 11222" d="M-1070.735,1789.084s.075,4.151.188,10.378c.056,3.113.122,6.745.193,10.637.035,1.946.072,3.956.109,6q.014.766.028,1.538l.014.772,0,.127v.024l0,.048,0,.1.008.193.016.387q.063,1.553.126,3.113l.212,3.3c.068,1.1.192,2.147.284,3.211s.218,2.105.347,3.138l.189,1.539q.1.752.2,1.493c.53,3.856,1.025,7.455,1.449,10.54.848,6.17,1.507,10.71,1.507,10.71.495,3.24,8.1,2.325,8.1-.3,0,0-.126-5.019-.4-11.241-.136-3.111-.3-6.74-.466-10.629q-.016-.364-.032-.732l-.011-.347-.007-.356q-.014-.713-.029-1.435c-.023-.962-.045-1.935-.026-2.917s0-1.98.037-2.948.07-1.94.1-2.912q.094-1.552.188-3.1.109-1.5.217-2.975c.151-2.038.3-4.043.444-5.984l.787-10.61c.461-6.211.768-10.351.768-10.351a7.283,7.283,0,0,0-6.724-7.8,7.283,7.283,0,0,0-7.8,6.724C-1070.732,1788.634-1070.738,1788.866-1070.735,1789.084Z" transform="translate(1103.497 -1718.071)" fill="#544f77"/>
+        <g id="Grupo_5978" data-name="Grupo 5978" transform="translate(45.543 65.585)">
+          <path id="Trazado_11223" data-name="Trazado 11223" d="M-1021.881,1797.586l10.328,70.939a4.145,4.145,0,0,0,4.7,3.5,4.162,4.162,0,0,0,3.541-4.338l-4.091-71.57a7.282,7.282,0,0,0-7.686-6.855,7.282,7.282,0,0,0-6.854,7.686C-1021.933,1797.162-1021.91,1797.382-1021.881,1797.586Z" transform="translate(1021.957 -1789.255)" fill="#544f77"/>
+        </g>
+        <circle id="Elipse_696" data-name="Elipse 696" cx="12.616" cy="12.616" r="12.616" transform="translate(31.862 64.932) rotate(-17.664)" fill="#544f77"/>
+        <g id="Grupo_5979" data-name="Grupo 5979" transform="translate(52.341 78.498)">
+          <path id="Trazado_11224" data-name="Trazado 11224" d="M-988.307,1908.47h.014a.134.134,0,0,0,.119-.148l-7.572-69.667a.129.129,0,0,0-.148-.119.134.134,0,0,0-.118.147l7.572,69.668A.134.134,0,0,0-988.307,1908.47Z" transform="translate(996.012 -1838.535)" fill="#755e96"/>
+        </g>
+        <g id="Grupo_5980" data-name="Grupo 5980" transform="translate(35.16 75.318)">
+          <path id="Trazado_11225" data-name="Trazado 11225" d="M-1057.741,1891.045h.015a.133.133,0,0,0,.118-.148c-.029-.26-2.959-26.042-3.341-31.941-.558-8.612-.313-32.182-.31-32.419a.134.134,0,0,0-.132-.135h0a.134.134,0,0,0-.134.132c0,.237-.248,23.817.311,32.439.382,5.906,3.313,31.694,3.343,31.954A.134.134,0,0,0-1057.741,1891.045Z" transform="translate(1061.583 -1826.401)" fill="#755e96"/>
+        </g>
+        <path id="Trazado_11226" data-name="Trazado 11226" d="M-1134.3,1745.457c3.444-2.486,9.245-6.6,10.629-7.372a7.226,7.226,0,0,0,2.385-2.227c1.111-1.63,1.764-4.115-.052-5.751a3.544,3.544,0,0,0-2.76-.856c-5.108.375-11.611,8.431-14.879,13.018Z" transform="translate(1153.856 -1679.379)" fill="#544f77"/>
+        <path id="Trazado_11227" data-name="Trazado 11227" d="M-1080.673,1640.325l-10.691,23.012a4.292,4.292,0,0,1-5.7,2.084,4.305,4.305,0,0,1-2.2-5.432l9.106-23.684a5.153,5.153,0,0,1,6.659-2.96,5.153,5.153,0,0,1,2.96,6.659C-1080.577,1640.109-1080.626,1640.224-1080.673,1640.325Z" transform="translate(1124.757 -1608.358)" fill="#544f77"/>
+        <path id="Trazado_11228" data-name="Trazado 11228" d="M-1066.393,1672.034l-4.857,10.455a8.162,8.162,0,0,1-1.039,1.8c2.166-8.686,1.917-25.339,1.917-25.339Z" transform="translate(1104.643 -1627.51)" fill="#4a4569"/>
+        <path id="Trazado_11229" data-name="Trazado 11229" d="M-1051.922,1577.272a37.165,37.165,0,0,1,4.629-1.841,2.188,2.188,0,0,1,1.745.417c.031.077-.2.71-.574.512-.414-.217-.72-.681-1.377-.538s-1.174.714-1.735.975c-.37.172-1.759.709-2.667,1.057Z" transform="translate(1089.613 -1565.846)" fill="#2d313d"/>
+        <path id="Trazado_11230" data-name="Trazado 11230" d="M-1160.713,1781.607a2.517,2.517,0,0,1-.687,1.018,3.113,3.113,0,0,1-1.815.409.562.562,0,0,1-.321-.973,13.127,13.127,0,0,0,1.583-1.229C-1161.41,1780.29-1160.561,1781.087-1160.713,1781.607Z" transform="translate(1172.12 -1717.32)" fill="#fbc5c4"/>
+        <path id="Trazado_11231" data-name="Trazado 11231" d="M-1040.942,1552.691a11.36,11.36,0,0,0-1.355,3.635c-.159,1.587,2.895,3.075,2.895,3.075l1.174-6.533Z" transform="translate(1082.514 -1549.093)" fill="#544f77"/>
+        <path id="Trazado_11232" data-name="Trazado 11232" d="M-1044.079,1676.734c1.173-1.368-1.713-7.828-.74-10.345.849-2.2,7.507-21.01,7.491-26.631s-4.745-9.786-13.758-12.13c-10.48-2.725-15.027-.191-16.936,2.112-3.792,4.577-.6,31.408-.6,31.408a51.924,51.924,0,0,0-3.146,12.677c-.289,2.821,5.563,5.737,12.39,6.148C-1050.5,1680.508-1044.678,1677.432-1044.079,1676.734Z" transform="translate(1104.267 -1603.522)" fill="#fefefe"/>
+        <path id="Trazado_11233" data-name="Trazado 11233" d="M-1046.209,1687.6c.006.85.027,1.643.043,2.365l.011.45c.053.845.107,1.584.16,2.194.064.813.118,1.391.145,1.68l1.9,1.894,1.814-2.178v-1.584c.005-.567-.005-1.258-.021-2.081l.053-1.889.021-.776c0-1.011.07-2.087.139-3.221.032-.557.07-1.134.1-1.744l.144-1.819.113-1.316.048-.572.214-1.916.2-1.883.011-.086.268-1.958c.1-.813.23-1.632.358-2.424.086-.5.166-1,.235-1.5.048-.316.1-.626.15-.936.08-.433.155-.861.236-1.289.1-.525.192-1.049.278-1.589.091-.433.171-.861.251-1.284a.019.019,0,0,1,.006-.016c.15-.765.31-1.514.455-2.226.225-1.113.466-2.285.7-3.162.487-1.83.851-3.51,1.182-4.7l.332-1.177-1.129-.433-1.134-.407-.5,1.263c-.375.963-.862,2.226-1.38,3.756-.1.278-.193.573-.289.872-.321.942-.631,1.942-.91,2.841-.032.112-.064.22-.1.327-.219.728-.428,1.488-.642,2.269-.118.428-.235.867-.353,1.284l-.208.845c-.246.979-.5,2-.717,3.023-.043.187-.08.364-.118.54-.289,1.354-.5,2.445-.669,3.478l-.086.487-.268,1.541-.289,2.033c-.1.674-.177,1.338-.252,1.985l-.177,1.974-.011.1-.16,1.787c-.032.626-.053,1.23-.075,1.83-.016.332-.027.664-.037,1C-1046.209,1686.056-1046.23,1686.853-1046.209,1687.6Z" transform="translate(1085.403 -1622.395)" fill="#b06fa6"/>
+        <path id="Trazado_11234" data-name="Trazado 11234" d="M-1014.775,1578.316a5.226,5.226,0,0,0,.149-1.625,5.235,5.235,0,0,0-5.57-4.878,5.235,5.235,0,0,0-4.878,5.57c0,.069.017.135.024.2h-.006c.581,5.516.569,5.687-.787,11.065h0a5.222,5.222,0,0,0-.149,1.625c.191,2.885,10.639,2.194,10.448-.691,0-.069-.017-.135-.024-.2h.006c-.581-5.516-.569-5.687.787-11.065Z" transform="translate(1070.485 -1563.195)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_11235" data-name="Trazado 11235" d="M-1020.476,1639.107c-.45.315-.2,2.664.071,4.167.218,1.217,1.629,1.1,2.134.662,1.167-1,2.683-3.81,2.3-4.212C-1016.289,1639.39-1020.025,1638.792-1020.476,1639.107Z" transform="translate(1066.589 -1612.799)" fill="#b06fa6"/>
+        <path id="Trazado_11236" data-name="Trazado 11236" d="M-1071.68,1810.426c.779,2.539,6.142,4.949,12.3,5.319,8.879.534,14.7-2.541,15.3-3.24a1.145,1.145,0,0,0,.209-.476,2.918,2.918,0,0,1-.209,2.081c-.6.7-6.42,3.774-15.3,3.24-6.828-.411-12.679-3.327-12.39-6.148C-1071.742,1810.942-1071.712,1810.684-1071.68,1810.426Z" transform="translate(1104.267 -1739.294)" fill="#413d5c"/>
+        <path id="Trazado_11237" data-name="Trazado 11237" d="M-1007.428,1626.36s-1.768,2.9-7.09,3.553c2.661,3.891,3.864,6.795,5.472,6.42C-1005.243,1635.446-1007.428,1626.36-1007.428,1626.36Z" transform="translate(1062.01 -1603.458)" fill="#efefef"/>
+        <path id="Trazado_11238" data-name="Trazado 11238" d="M-1029.024,1629.227s-5.368,5.13-5.75,3.823c-.957-3.277,3.024-7.609,3.024-7.609S-1031.246,1628.264-1029.024,1629.227Z" transform="translate(1077.067 -1602.78)" fill="#efefef"/>
+        <path id="Trazado_11239" data-name="Trazado 11239" d="M-1007.122,1624.318s-1.659,3.084-6.981,3.739c2.661,3.891,3.755,6.609,5.363,6.234C-1004.937,1633.4-1007.122,1624.318-1007.122,1624.318Z" transform="translate(1061.704 -1601.951)" fill="#fefefe"/>
+        <path id="Trazado_11240" data-name="Trazado 11240" d="M-1029.232,1627.493s-5.16,4.822-5.541,3.514c-.957-3.277,3.024-7.609,3.024-7.609S-1031.454,1626.53-1029.232,1627.493Z" transform="translate(1077.067 -1601.273)" fill="#fefefe"/>
+        <path id="Trazado_11241" data-name="Trazado 11241" d="M-1009.046,1628.722s.781,1.561-5.634,21.581c-4.9,15.283-1.127,32.712,2.222,35.633s11.772-1.333,12.04-3.011-3.01-15.411-3.01-15.411,1.9-8.081,3.745-15.45c1.567-6.267,3.159-11.857,2.76-13.243C-998.545,1633.181-1009.046,1628.722-1009.046,1628.722Z" transform="translate(1063.861 -1605.201)" fill="#544f77"/>
+        <path id="Trazado_11242" data-name="Trazado 11242" d="M-1073.154,1653.272c-2.346,15.2-1.289,26.422-2.852,26.376s-4.128-2.353-4.081-5.112,4.577-16.493,4.577-16.493-2.354-26.481.776-29.671c2.7-2.75,9.328-4.076,8.9-3.342C-1069.31,1631-1071.121,1640.1-1073.154,1653.272Z" transform="translate(1110.398 -1602.329)" fill="#544f77"/>
+        <path id="Trazado_11243" data-name="Trazado 11243" d="M-1050.575,1626.553s-4.374,2.383-6,4.418l2.084,1.46-2.782.8s-3.074,11.77-1.465,29.358c0,0,2.89-16.5,4.046-22.934C-1053.783,1634.576-1050.575,1626.553-1050.575,1626.553Z" transform="translate(1094.99 -1603.6)" fill="#686294"/>
+        <path id="Trazado_11244" data-name="Trazado 11244" d="M-1027.787,1558.571a6.368,6.368,0,0,1-1.376,3.225c-1.071.967-4.859,3.527-6.1,3.692s-2.186.041-2.667-.641a23.162,23.162,0,0,1-1.227-3.332,13.53,13.53,0,0,1-1.3-3.26c-.172-1.2.121-3.1-.071-3.762a4.991,4.991,0,0,1-.507-1.88,24.354,24.354,0,0,1,.875-5.691c.4-1.091,4.281-5.083,8.843-4.36s6.678,4.673,6.742,6.3a19.921,19.921,0,0,1-.444,3.976s.885.241.826,1.028a6.394,6.394,0,0,1-.611,2.882,6.468,6.468,0,0,1-2.006,1.87A1.591,1.591,0,0,1-1027.787,1558.571Z" transform="translate(1081.582 -1541.555)" fill="url(#linear-gradient-4)"/>
+        <g id="Grupo_5981" data-name="Grupo 5981" transform="translate(40.542 0.937)">
+          <path id="Trazado_11245" data-name="Trazado 11245" d="M-1040.528,1554.535a4.992,4.992,0,0,1-.507-1.88,24.356,24.356,0,0,1,.875-5.69c.359-.984,3.554-4.314,7.522-4.432-3.541.537-6.288,3.445-6.619,4.353a24.332,24.332,0,0,0-.876,5.69,4.99,4.99,0,0,0,.507,1.88c.192.658-.1,2.562.071,3.762a13.535,13.535,0,0,0,1.3,3.26,23.173,23.173,0,0,0,1.227,3.332,2.061,2.061,0,0,0,1.836.7c-.023,0-.05.013-.071.016-1.241.165-2.186.041-2.667-.641a23.169,23.169,0,0,1-1.227-3.332,13.532,13.532,0,0,1-1.3-3.259C-1040.629,1557.1-1040.336,1555.194-1040.528,1554.535Z" transform="translate(1041.04 -1542.533)" fill="#fbe5e4"/>
+        </g>
+        <path id="Trazado_11246" data-name="Trazado 11246" d="M-1041.22,1827.951q.8.157,1.643.267a1.039,1.039,0,0,1,.9,1.032v.038a1.047,1.047,0,0,1-1.189,1.037q-.9-.126-1.76-.305a1.05,1.05,0,0,1-.841-1.026v-.022A1.043,1.043,0,0,1-1041.22,1827.951Z" transform="translate(1082.636 -1752.212)" fill="#cf9853"/>
+        <path id="Trazado_11247" data-name="Trazado 11247" d="M-1028.23,1553.679l-.093-2.8a3.179,3.179,0,0,1-1.144-1.119c-.322-.657.231-2.207.026-2.783s-1.041-1.816-1.819-1.935-4.339,1.477-6.136,1.34c-4.254-.325-4.748-5.928-2.355-7.087,1.833-.887,3.2.283,4.694.07s4.532-.766,6.765.412a7.223,7.223,0,0,1,3.944,6.915,12.7,12.7,0,0,1-.579,3.625s-1.6.294-2.06,1.27a5.208,5.208,0,0,0-.483,1.916Z" transform="translate(1081.686 -1538.958)" fill="#544f77"/>
+        <path id="Trazado_11248" data-name="Trazado 11248" d="M-1031.065,1585.913s-1.959,4.784-1.346,5.224c.461.33,1.7.084,1.7.084Z" transform="translate(1075.302 -1573.609)" fill="#ff8480"/>
+        <path id="Trazado_11249" data-name="Trazado 11249" d="M-1019.629,1587.476a.563.563,0,0,1-.475.639.563.563,0,0,1-.639-.475.563.563,0,0,1,.475-.639A.563.563,0,0,1-1019.629,1587.476Z" transform="translate(1066.608 -1574.408)" fill="#fefefe"/>
+        <path id="Trazado_11250" data-name="Trazado 11250" d="M-1035.81,1587.077a.563.563,0,0,1-.475.639.563.563,0,0,1-.639-.475.563.563,0,0,1,.475-.638A.562.562,0,0,1-1035.81,1587.077Z" transform="translate(1078.549 -1574.113)" fill="#fefefe"/>
+        <path id="Trazado_11251" data-name="Trazado 11251" d="M-1017.693,1582.373a.281.281,0,0,1-.227-.067,2.149,2.149,0,0,0-2.17-.28.28.28,0,0,1-.372-.14.281.281,0,0,1,.14-.373,2.694,2.694,0,0,1,2.774.37.282.282,0,0,1,.025.4A.282.282,0,0,1-1017.693,1582.373Z" transform="translate(1066.415 -1570.192)" fill="#544f77"/>
+        <path id="Trazado_11252" data-name="Trazado 11252" d="M-1038.269,1580.045a.279.279,0,0,1-.184-.036,1.688,1.688,0,0,0-1.877.088.281.281,0,0,1-.4-.03.282.282,0,0,1,.03-.4,2.248,2.248,0,0,1,2.533-.144.281.281,0,0,1,.1.385A.28.28,0,0,1-1038.269,1580.045Z" transform="translate(1081.402 -1568.648)" fill="#544f77"/>
+        <path id="Trazado_11253" data-name="Trazado 11253" d="M-1030.808,1610.36a.318.318,0,0,0-.338.373,1.5,1.5,0,0,0,1.357,1.187,1.5,1.5,0,0,0,1.517-.975.317.317,0,0,0-.28-.418Z" transform="translate(1074.286 -1591.65)" fill="#ff8480"/>
+        <path id="Trazado_11254" data-name="Trazado 11254" d="M-1046.062,1765.864a.368.368,0,0,0,.059.037c1.145.663,2.076.128,2.076-1.193a4.639,4.639,0,0,0-1.862-3.462l-.16,1.787c-.032.626-.053,1.23-.075,1.83C-1046.041,1765.2-1046.051,1765.527-1046.062,1765.864Z" transform="translate(1085.288 -1703.001)" fill="#c77ebc"/>
+        <path id="Trazado_11255" data-name="Trazado 11255" d="M-1037.792,1791.794a4.635,4.635,0,0,0,1.873,3.462v-.776c.005-.567-.005-1.257-.021-2.081l.053-1.889C-1036.952,1789.991-1037.792,1790.536-1037.792,1791.794Z" transform="translate(1079.185 -1724.452)" fill="#c77ebc"/>
+        <path id="Trazado_11256" data-name="Trazado 11256" d="M-965.818,1661.8l4.4,24.959a4.127,4.127,0,0,1-3.348,4.781,4.14,4.14,0,0,1-4.725-3.084l-6.018-24.619a4.955,4.955,0,0,1,3.636-5.99,4.955,4.955,0,0,1,5.99,3.637C-965.86,1661.581-965.836,1661.7-965.818,1661.8Z" transform="translate(1033.329 -1626.587)" fill="#544f77"/>
+        <g id="Grupo_5982" data-name="Grupo 5982" transform="translate(4.81 51.802)">
+          <path id="Trazado_11257" data-name="Trazado 11257" d="M-1159.089,1738.26l27.23,18.675a1.041,1.041,0,0,1-.161,1.963l-16.539,7.857-28.85-19.8Z" transform="translate(1177.409 -1737.839)" fill="#8f88bd"/>
+          <path id="Trazado_11258" data-name="Trazado 11258" d="M-1158.957,1736.655l27.23,18.675a1.041,1.041,0,0,1-.161,1.963l-16.662,7.914-28.727-19.852Z" transform="translate(1177.312 -1736.655)" fill="#484466"/>
+          <path id="Trazado_11259" data-name="Trazado 11259" d="M-1159.469,1754.726l2.644,1.83a.33.33,0,0,0,.3.024l1.652-.781a.091.091,0,0,0,.014-.171l-2.648-1.828a.33.33,0,0,0-.3-.024l-1.648.779A.091.091,0,0,0-1159.469,1754.726Zm6.714,2.541-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1152.755,1757.266Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1150.635,1758.734Zm2.12,1.468-1.647.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1148.514,1760.2Zm2.121,1.468-1.648.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1146.394,1761.669Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.327.327,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1144.273,1763.137Zm2.121,1.468-1.648.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1142.153,1764.605Zm2.12,1.468-1.647.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.172l1.648-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1140.032,1766.073Zm2.121,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1137.912,1767.541Zm2.12,1.468-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1135.791,1769.008Zm2.121,1.468-1.648.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1133.671,1770.476Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1131.55,1771.944Zm7-3.31-1.647.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1124.551,1768.634Zm-2.12-1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1126.672,1767.166Zm-2.12-1.468-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1128.792,1765.7Zm-24.8-11.73-1.647.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1153.6,1753.968Zm2.12,1.468-1.648.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1151.475,1755.436Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1149.354,1756.9Zm.427-5.143-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1148.927,1751.761Zm2.12,1.468-1.647.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1146.807,1753.229Zm2.12,1.468-1.648.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1144.687,1754.7Zm-2.547,3.675-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1147.234,1758.372Zm2.111,1.461-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1145.123,1759.833Zm2.12,1.468-1.647.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1143,1761.3Zm2.13,1.474-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.025l1.593,1.1A.091.091,0,0,1-1140.872,1762.775Zm2.12,1.468-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1138.752,1764.243Zm2.12,1.468-1.647.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1136.631,1765.711Zm2.121,1.468-1.648.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.172l1.647-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1134.511,1767.179Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1132.391,1768.646Zm-1.4.949,1.648-.779a.329.329,0,0,1,.3.024l.768.532a.329.329,0,0,0,.3.024l2.021-.956a.329.329,0,0,1,.3.024l1.593,1.1a.091.091,0,0,1-.014.171l-2.176,1.029-.767.362-1.036.49a.33.33,0,0,1-.3-.024l-2.644-1.83A.091.091,0,0,1-1133.793,1769.595Zm-16.42-16-1.648.779a.328.328,0,0,1-.3-.024l-2.644-1.83a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l2.643,1.83A.091.091,0,0,1-1150.213,1753.593Zm2.121,1.468-1.648.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1148.092,1755.061Zm2.12,1.468-1.647.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1145.972,1756.529Zm2.121,1.468-1.648.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1143.852,1758Zm2.12,1.468-1.647.779a.328.328,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1141.731,1759.464Zm2.12,1.468-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1139.611,1760.932Zm2.121,1.468-1.648.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.328.328,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1137.49,1762.4Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1135.37,1763.868Zm2.12,1.468-1.648.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1133.249,1765.335Zm2.121,1.468-1.648.779a.33.33,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.647-.779a.33.33,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1131.129,1766.8Zm2.12,1.468-1.647.779a.329.329,0,0,1-.3-.024l-1.593-1.1a.091.091,0,0,1,.014-.171l1.648-.779a.329.329,0,0,1,.3.024l1.593,1.1A.091.091,0,0,1-1129.008,1768.271Zm-1.9-4.034-1.647.779a.33.33,0,0,1-.3-.024l-13.265-9.182a.091.091,0,0,1,.014-.171l1.647-.779a.328.328,0,0,1,.3.024l13.265,9.182A.091.091,0,0,1-1130.9,1764.237Z" transform="translate(1164.21 -1746.826)" fill="#fff"/>
+          <path id="Trazado_11260" data-name="Trazado 11260" d="M-1082.115,1766.716l-3.385,1.581a.445.445,0,0,0-.073.84l5.037,3.523a1.614,1.614,0,0,0,1.456.126l3.385-1.581a.445.445,0,0,0,.073-.84l-5.037-3.523A1.614,1.614,0,0,0-1082.115,1766.716Z" transform="translate(1109.833 -1758.752)" fill="#635d8c"/>
+        </g>
+        <path id="Trazado_11261" data-name="Trazado 11261" d="M-1162.11,1729.534l-28.866-19.8-4.767-20.9a.823.823,0,0,1,1.268-.862l26.1,17.9a3.19,3.19,0,0,1,1.306,1.921Z" transform="translate(1195.765 -1648.815)" fill="#686294"/>
+        <path id="Trazado_11262" data-name="Trazado 11262" d="M-998.7,1760.134c.165-4.008-5.236-5.2-8.744-4.075-2.571.826-15.671,3.045-17.253,3.288-1.63.251-1.831,6.287.41,6.521a114.192,114.192,0,0,0,11.715-.074C-1005.921,1765.437-998.878,1764.339-998.7,1760.134Z" transform="translate(1070.446 -1698.874)" fill="#fefefe"/>
+        <path id="Trazado_11263" data-name="Trazado 11263" d="M-1009.133,1757.4c-.808.06,12.139-2.586,13.98-3.178a8.826,8.826,0,0,1,3.978-.269c2.382.37,5.143,1.861,5.085,4.847a4.171,4.171,0,0,1-1.54,3.175c-4.359,3.755-21.536,2.953-21.536,2.953C-1006.433,1764.414-1007.483,1757.277-1009.133,1757.4Z" transform="translate(1058.063 -1697.537)" fill="#544f77"/>
+        <path id="Trazado_11264" data-name="Trazado 11264" d="M-1139.486,1798.343a1.83,1.83,0,0,0,1.678-.067c.6-.321.018-1.149-.47-1.031a7.032,7.032,0,0,1-1.007.213,3.619,3.619,0,0,1-.431-.2S-1140.012,1798.1-1139.486,1798.343Z" transform="translate(1154.464 -1729.558)" fill="#fbc5c4"/>
+        <path id="Trazado_11265" data-name="Trazado 11265" d="M-1145.673,1791.651a.817.817,0,0,0,1.1.3,7.075,7.075,0,0,0,1.563-1.625c.313-.457-.352-1-.731-.783a15,15,0,0,0-1.749,1.334A.7.7,0,0,0-1145.673,1791.651Z" transform="translate(1158.839 -1723.846)" fill="#fbc5c4"/>
+        <path id="Trazado_11266" data-name="Trazado 11266" d="M-1150.683,1788.373a.655.655,0,0,0,.888.122,8.517,8.517,0,0,0,1.257-1.431c.207-.3-.163-.906-.621-.726a7.435,7.435,0,0,0-1.5,1.094A.7.7,0,0,0-1150.683,1788.373Z" transform="translate(1162.625 -1721.493)" fill="#fbc5c4"/>
+        <g id="Grupo_5984" data-name="Grupo 5984" transform="translate(37.608 11.029)">
+          <image id="Rectángulo_2678" data-name="Rectángulo 2678" width="5.241" height="4.192" transform="translate(0.586 0.249)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAAAXNSR0IArs4c6QAAAZdJREFUOBGN07FOwzAQBmC7pQoslRIJCSGEigQDsHVnZmVi5iF4Ol6CEYmJAUaWJC0laWzuv7MdOw1SI7Wu2/rLfz5HW2tVctW1VsYUaj7/Tr7fc6ITULBc2a5g1BJsDM0x0nd+frp4+s9PwbKkRaOYQwnu8Tzc9OI28zfoQcY4yXDxcA7UY/lPq7OqmaiymarL5ZUWcD/MIaGCBKtaQekdZSbJkIgWd3GyGOPfNy5Z1U6Vx5B0MljskKgBoTy6gWsQsJIWA+MRn+m1bjSB0r3w5905GsEYV7LZqqyk8iSVQNg/YDOz9QlHu+duMsBosW+CH9etYLMOYHH84rrm9o7xeM9CssphfuRkwAjil2kJxIUnoz9/MSYNoDKByH7JOIbdP9xoAWWPooR8NLhBtGeHPlGMcplRMiTEJeDJ+bMcnVAuY78RhkQ+4Sop05WbgKDlSFC5cmSAAfEbjxEJV9Thfs+AtTy/e1xqMP2jh9nH2yeSEnbky4tRwQTAERliIA7wFq7F9Rk+40n/en23MVZzsl0McHz9AR9AGvZtI/SkAAAAAElFTkSuQmCC"/>
+          <image id="Rectángulo_2679" data-name="Rectángulo 2679" width="5.241" height="4.192" transform="translate(7.137 1.297)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAAAXNSR0IArs4c6QAAAdJJREFUOBGFlMtKw0AUhmeSprTUtpRUoYLoRhcuFUQUEXwIQXwDH8YH8IFcdOPehUvXtuk9mRnPJTOZSQsNnJ45neSf71wSaYwR7sqmfaF1KrQaCqOH5DX4o+N3d8+ehXSCWdYWRoGYJ2RA2Mb+AXxgusxlq31xKf0zGhTMZjEQ9YQ2ffBg5DHu0f8GvIZ99HifMd1cidY8j8Tv17eZrGPxB/b0eCaZMJsOXHrl6S72KZGW4xQFJhuwdQTG6+VGikhkWad2OtLspuQseki2KCKBnqxcN3QBgpQCpoupBNZ1sbe3ViKxQgtPGMUaWpHgbpqKEvfpQK1NB0XmPh3EWhkSY0I+vaLxKWt7fnp2vSokiDEdEw7S8Z6aAaHuL4sotmRBqko5OibEuWGqitKrGe4VMCKUaq0J0oqhLy2iOTwcfTAldpc6HDTJpufXLy9EQIZ0D89XkgUtJQ9yRQrNsGLkLSH4mOpW1Q7rh1clODp9o9Spu0Ta2xSiiXVz6ZZrfDgBQ88NYeFQECOqJb1eXRiRg7oYUioaERQI6TDeFjw5v7OUQYrl3K3AM5WClEO669d7+khUXxvS3/4Zf/4Y+85G0MlE5aIJliioR7m+ebl1X5x/8xArcx3fGD8AAAAASUVORK5CYII="/>
+          <path id="Trazado_11267" data-name="Trazado 11267" d="M-1038.955,1583.16l-.011.681a.235.235,0,0,1-.114.2.789.789,0,0,0-.295.265c-.1.185-.186.828-.407,1.39s-.487.831-1.045.819a8.716,8.716,0,0,1-2.911-.512c-.586-.357-1.114-2.251-1.193-2.61s-.518-.41-.518-.41-.44-.074-.529.261-.674,2.07-1.269,2.258a8.518,8.518,0,0,1-2.914-.319,1.41,1.41,0,0,1-1.015-1.114c-.2-.622-.27-1.287-.362-1.5a1.145,1.145,0,0,0-.285-.348.312.312,0,0,1-.107-.235l.011-.681a.228.228,0,0,1,.2-.231,5.92,5.92,0,0,1,1.129-.007,22.732,22.732,0,0,1,2.656.379c.359.068,2.277.513,2.5.546s2.149.136,2.509.17a22.616,22.616,0,0,1,2.656.379,6.586,6.586,0,0,1,1.124.328A.313.313,0,0,1-1038.955,1583.16Zm-7.233-.5c-.182-.691-1.509-.925-2.219-1.035a12.921,12.921,0,0,0-2.29-.216.571.571,0,0,0-.554.631,6.5,6.5,0,0,0,.662,2.642,5.607,5.607,0,0,0,3.259.585A3.692,3.692,0,0,0-1046.188,1582.658Zm6.015.252a13.408,13.408,0,0,0-2.287-.437c-.71-.093-2.039-.238-2.241.4a4.746,4.746,0,0,0,1.056,2.921,5.458,5.458,0,0,0,3.262.346c.432-.289.71-2.059.742-2.442A.773.773,0,0,0-1040.173,1582.91Z" transform="translate(1052.01 -1581.05)" fill="#a8b7e3"/>
+          <path id="Trazado_11268" data-name="Trazado 11268" d="M-1039.263,1583.7l-.011.681a.235.235,0,0,1-.114.2.791.791,0,0,0-.295.265c-.1.186-.186.828-.407,1.39s-.487.831-1.045.82a8.719,8.719,0,0,1-2.911-.512c-.586-.357-1.115-2.251-1.193-2.61s-.518-.41-.518-.41-.44-.074-.529.261-.674,2.069-1.269,2.258a8.517,8.517,0,0,1-2.914-.319,1.41,1.41,0,0,1-1.015-1.114c-.2-.622-.27-1.287-.362-1.5a1.145,1.145,0,0,0-.286-.348.313.313,0,0,1-.107-.235l.011-.681a.229.229,0,0,1,.2-.231,5.94,5.94,0,0,1,1.13-.006,22.7,22.7,0,0,1,2.656.379c.359.068,2.277.513,2.5.546s2.149.136,2.509.17a22.65,22.65,0,0,1,2.656.379,6.642,6.642,0,0,1,1.124.328A.313.313,0,0,1-1039.263,1583.7Zm-7.233-.5c-.182-.691-1.509-.925-2.219-1.035a12.877,12.877,0,0,0-2.291-.216.571.571,0,0,0-.554.63,6.5,6.5,0,0,0,.662,2.643,5.606,5.606,0,0,0,3.258.585A3.693,3.693,0,0,0-1046.5,1583.2Zm6.015.252a13.364,13.364,0,0,0-2.287-.437c-.71-.093-2.039-.238-2.241.4a4.746,4.746,0,0,0,1.057,2.921,5.459,5.459,0,0,0,3.262.346c.432-.289.71-2.059.742-2.442A.773.773,0,0,0-1040.481,1583.45Z" transform="translate(1052.237 -1581.448)" fill="#2d313d"/>
+          <g id="Grupo_5983" data-name="Grupo 5983" transform="translate(5.806 1.025)" opacity="0.2">
+            <path id="Trazado_11269" data-name="Trazado 11269" d="M-1029.748,1585.986l-.333-1.025c.382.084.585.127.651.136s.3.027.759.057l-.359.915a.844.844,0,0,0-.335-.128.776.776,0,0,0-.35.032Z" transform="translate(1030.081 -1584.961)" fill="#a8b7e3"/>
+          </g>
+          <path id="Trazado_11270" data-name="Trazado 11270" d="M-1044.809,1584.1l-2.829,2.743a8.737,8.737,0,0,0,.966.194,2.821,2.821,0,0,0,1.24,0,3.611,3.611,0,0,0,1.089-2.464A.844.844,0,0,0-1044.809,1584.1Zm-4.335-.155c-.014-.288.139-.458.455-.5a9.379,9.379,0,0,1,1.839.154c.148.021.288.042.413.062a8.7,8.7,0,0,1,.951.191l-3.173,2.442A8.518,8.518,0,0,1-1049.145,1583.948Z" transform="translate(1049.956 -1582.809)" fill="#f8f8ff" opacity="0.3"/>
+          <path id="Trazado_11271" data-name="Trazado 11271" d="M-1020.286,1587.619c-.333-.078-.821-.164-1.432-.251-.148-.021-.289-.04-.413-.056-.478-.062-1.932-.253-2.113.318a4.576,4.576,0,0,0,.761,2.45Zm.84.751c-.037.465-.327,2.108-.69,2.352a4.19,4.19,0,0,1-1.867.022h0c-.172-.025-.335-.053-.483-.085l2.853-2.766A.549.549,0,0,1-1019.445,1588.37Z" transform="translate(1031.599 -1585.611)" fill="#f8f8ff" opacity="0.3"/>
+        </g>
+        <path id="Trazado_11272" data-name="Trazado 11272" d="M-1002.943,1583.3a37.211,37.211,0,0,1,4.629-1.842,2.189,2.189,0,0,1,1.745.417c.031.077-.2.71-.574.512-.414-.217-.72-.681-1.378-.538s-1.174.714-1.735.975c-.37.172-1.759.709-2.666,1.057Z" transform="translate(1053.468 -1570.295)" fill="#2d313d"/>
+        <path id="Trazado_11273" data-name="Trazado 11273" d="M-989.1,1584.846s-.439-2.26.617-3.021c.677-.488,2.164-.535,2.52.508S-989.1,1584.846-989.1,1584.846Z" transform="translate(1043.318 -1570.347)" fill="#ffaeac"/>
+        <path id="Trazado_11274" data-name="Trazado 11274" d="M-1025.812,1773.169a6.65,6.65,0,0,0,.171,1.177,4.578,4.578,0,0,0,.444,1.151c.294.519.674.819,1.07.8s.738-.364.979-.915a4.386,4.386,0,0,0,.316-1.209,6.875,6.875,0,0,0,.037-1.161,5.827,5.827,0,0,0-.4-1.878c-.284-.712-.7-1.182-1.156-1.241h-.005a1,1,0,0,0-.129-.005.454.454,0,0,0-.118.016c-.439.091-.8.6-1.017,1.332A5.906,5.906,0,0,0-1025.812,1773.169Z" transform="translate(1070.351 -1709.375)" fill="#544f77"/>
+        <path id="Trazado_11275" data-name="Trazado 11275" d="M-1073.98,1773.686c.3-.583,2.445-3.74,2.649-3.954a33.464,33.464,0,0,1,3.381-2.6c.327-.07,5.773.819,5.773.819l1.118-.048.872-.038.246-.01h.005c.455.059.872.53,1.156,1.241a5.827,5.827,0,0,1,.4,1.878,6.871,6.871,0,0,1-.037,1.161c-.808.011-1.889,0-2.22.032-.07.005-.129.016-.171.021a2.5,2.5,0,0,0-.417.123,10.08,10.08,0,0,1-1.728.578,6.365,6.365,0,0,1-2.055-.311s-2.868,2.167-3.066,2.322c-.5.38-1.295-.406-.706-1.032.557-.583,2.558-2.568,2.8-2.814-.209.15-1.856,1.348-2.285,1.621-.455.289-2.5,2.579-3,3.1a.588.588,0,0,1-.92-.733c.1-.144.589-.813,1.145-1.557-.744.963-1.482,1.905-1.627,2.033-.353.326-1-.139-.76-.557.07-.123.68-1.161,1.445-2.322-.578.792-1.118,1.525-1.22,1.653C-1073.52,1774.7-1074.274,1774.269-1073.98,1773.686Zm6.506-3.537a9.039,9.039,0,0,0-1.439.824C-1068.373,1770.657-1067.474,1770.149-1067.474,1770.149Zm-1.22-.915c.043-.069-.974.685-1.461,1.049Z" transform="translate(1105.94 -1707.345)" fill="#fbc5c4"/>
+        <path id="Trazado_11276" data-name="Trazado 11276" d="M-1038.936,1545.068a3.963,3.963,0,0,0-.137.542,5.63,5.63,0,0,0-.082,1.487,4.552,4.552,0,0,0,.187,1.011,3.446,3.446,0,0,0,.532,1.075,3.154,3.154,0,0,0,1,.894,4.212,4.212,0,0,0,.649.269,4.641,4.641,0,0,0,.606.146,4.538,4.538,0,0,0,.664.074,4.487,4.487,0,0,0,.634,0,7.558,7.558,0,0,0,1.2-.154,10.591,10.591,0,0,0,1.993-.622c.56-.227,1-.456,1.318-.6a3.215,3.215,0,0,1,.5-.21,2.18,2.18,0,0,0-.561,0c-.354.035-.851.116-1.433.219s-1.254.211-1.962.28a10.212,10.212,0,0,1-1.08.048,5.1,5.1,0,0,1-.542-.023,3.706,3.706,0,0,1-.514-.063,3.708,3.708,0,0,1-.549-.122c-.143-.031-.295-.114-.444-.163a2.494,2.494,0,0,1-.745-.565,3.539,3.539,0,0,1-.524-.776,6.666,6.666,0,0,1-.328-.834,10.451,10.451,0,0,1-.308-1.371C-1038.916,1545.271-1038.936,1545.068-1038.936,1545.068Z" transform="translate(1080.204 -1543.467)" fill="#686294"/>
+        <path id="Trazado_11277" data-name="Trazado 11277" d="M-1033.265,1544.754a1.84,1.84,0,0,0-.2.84,2.54,2.54,0,0,0,.672,1.8,2.308,2.308,0,0,0,.418.362,2.4,2.4,0,0,0,.468.252,2.7,2.7,0,0,0,.469.132,1.726,1.726,0,0,0,.426.029,1.832,1.832,0,0,0,.619-.1,2.035,2.035,0,0,0,.224-.08s-.076-.055-.2-.131c-.063-.037-.137-.084-.222-.125s-.173-.109-.269-.163-.2-.108-.3-.187-.2-.132-.3-.212-.2-.147-.286-.239a2.882,2.882,0,0,1-.265-.266,3.024,3.024,0,0,1-.248-.287c-.081-.1-.149-.207-.226-.308-.139-.212-.272-.425-.388-.621Z" transform="translate(1075.995 -1543.235)" fill="#686294"/>
+        <path id="Trazado_11278" data-name="Trazado 11278" d="M-996.766,1568.044c-.322-.657.231-2.207.026-2.783-.007-.019,4.926-2.272,5.342-1.27.529,1.272-.828,4.61-.828,4.61s-1.6.294-2.06,1.27a5.208,5.208,0,0,0-.483,1.916l-.761.177-.093-2.8A3.179,3.179,0,0,1-996.766,1568.044Z" transform="translate(1048.985 -1557.242)" fill="#686294"/>
+        <path id="Trazado_11279" data-name="Trazado 11279" d="M-1146.889,1745.1a4.584,4.584,0,0,0,2.074,3.592c1.145.661,2.074.125,2.074-1.2a4.583,4.583,0,0,0-2.074-3.592C-1145.961,1743.245-1146.889,1743.781-1146.889,1745.1Z" transform="translate(1159.696 -1689.995)" fill="#b4abed"/>
+        <path id="Trazado_11280" data-name="Trazado 11280" d="M-1027.95,1698.567a4.611,4.611,0,0,0,1.322,2.991c.08-.433.155-.861.236-1.289.1-.525.192-1.049.278-1.589.091-.433.171-.861.252-1.284a.019.019,0,0,1,.005-.016c-.005-.005-.011-.005-.016-.011C-1027.019,1696.7-1027.95,1697.24-1027.95,1698.567Z" transform="translate(1071.922 -1655.65)" fill="#c77ebc"/>
+        <path id="Trazado_11281" data-name="Trazado 11281" d="M-1030.2,1674.888a.76.76,0,0,0,.086.054c1.145.664,2.071.128,2.071-1.193a4.472,4.472,0,0,0-.958-2.574c-.1.278-.193.573-.289.872C-1029.607,1672.989-1029.918,1673.99-1030.2,1674.888Z" transform="translate(1073.58 -1636.53)" fill="#c77ebc"/>
+        <path id="Trazado_11282" data-name="Trazado 11282" d="M-1041.223,1720.942c.99.4,1.75-.155,1.75-1.348a4.489,4.489,0,0,0-1-2.616c-.289,1.354-.5,2.445-.669,3.478Z" transform="translate(1081.717 -1670.331)" fill="#c77ebc"/>
+        <path id="Trazado_11283" data-name="Trazado 11283" d="M-1033.912,1741.294a4.619,4.619,0,0,0,1.4,3.071l.048-.572.214-1.916.2-1.883C-1033.1,1739.5-1033.912,1740.047-1033.912,1741.294Z" transform="translate(1076.322 -1687.184)" fill="#c77ebc"/>
+        <path id="Trazado_11284" data-name="Trazado 11284" d="M-1008.995,1625.679s4.1,3.753,4.814,7.759l-3.032.959,2.853,2.022s-10.463,19.223-12.388,26.4a62.93,62.93,0,0,1,1.364-13.217C-1013.945,1643.776-1009.149,1629.464-1008.995,1625.679Z" transform="translate(1063.655 -1602.956)" fill="#686294"/>
+      </g>
+    </g>
+  </g>
+</svg>
